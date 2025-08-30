@@ -1,0 +1,1828 @@
+﻿2025-07-04 23:16:30.603 - ShareX starting.
+2025-07-04 23:16:30.603 - Version: 17.1
+2025-07-04 23:16:30.603 - Build: Release
+2025-07-04 23:16:30.603 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2025-07-04 23:16:30.603 - Personal path: C:\Users\deves\Documents\ShareX
+2025-07-04 23:16:30.603 - Operating system: Windows 10 Home (64-bit)
+2025-07-04 23:16:30.604 - Running as elevated process: False
+2025-07-04 23:16:30.623 - Flags: SilentRun
+2025-07-04 23:16:30.699 - ApplicationConfig load started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-04 23:16:32.320 - ApplicationConfig load finished: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-04 23:16:32.332 - UploadersConfig load started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-04 23:16:32.353 - Language changed to: English (United States)
+2025-07-04 23:16:32.363 - MainForm init started.
+2025-07-04 23:16:32.532 - UploadersConfig load finished: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-04 23:16:32.551 - HotkeysConfig load started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-04 23:16:32.599 - HotkeysConfig load finished: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-04 23:16:33.724 - MainForm init finished.
+2025-07-04 23:16:34.360 - Hotkey registered: Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-04 23:16:34.360 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-04 23:16:34.360 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-07-04 23:16:34.360 - Hotkey registered: Hotkey: Ctrl + Shift + Alt + S, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-07-04 23:16:34.360 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-04 23:16:34.361 - HotkeyManager started.
+2025-07-04 23:16:34.373 - WatchFolderManager started.
+2025-07-04 23:16:34.398 - Startup time: 3860 ms
+2025-07-04 23:16:34.404 - CommandLine: -silent
+2025-07-05 01:36:16.772 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 01:36:16.782 - Executing: Capture region
+2025-07-05 01:36:18.610 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 01:36:18.668 - Task status: Preparing
+2025-07-05 01:36:18.704 - Image copied to clipboard.
+2025-07-05 01:36:18.741 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_dUionS6Uly.png
+2025-07-05 01:36:18.760 - Task completed. File name: Discord_dUionS6Uly.png, Duration: 85 ms
+2025-07-05 02:52:35.501 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 02:52:35.501 - Executing: Capture region
+2025-07-05 02:52:38.054 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 02:52:38.058 - Task status: Preparing
+2025-07-05 02:52:38.077 - Image copied to clipboard.
+2025-07-05 02:52:38.090 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_PISBmS62EX.png
+2025-07-05 02:52:38.097 - Task completed. File name: Discord_PISBmS62EX.png, Duration: 38 ms
+2025-07-05 03:16:20.425 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 03:16:20.426 - Executing: Capture region
+2025-07-05 03:16:22.729 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 03:16:22.747 - Task status: Preparing
+2025-07-05 03:16:22.782 - Image copied to clipboard.
+2025-07-05 03:16:22.790 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_ND0tphFLzG.png
+2025-07-05 03:16:22.798 - Task completed. File name: Discord_ND0tphFLzG.png, Duration: 54 ms
+2025-07-05 06:19:44.626 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 06:19:44.626 - Executing: Capture region
+2025-07-05 06:19:53.795 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 06:19:53.803 - Task status: Preparing
+2025-07-05 06:19:53.810 - Image copied to clipboard.
+2025-07-05 06:19:53.814 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_X9tLzO1dDd.png
+2025-07-05 06:19:53.817 - Task completed. File name: chrome_X9tLzO1dDd.png, Duration: 14 ms
+2025-07-05 06:22:27.770 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 06:22:27.770 - Executing: Capture region
+2025-07-05 06:22:31.182 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 06:22:31.186 - Task status: Preparing
+2025-07-05 06:22:31.199 - Image copied to clipboard.
+2025-07-05 06:22:31.207 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_jv554bsteX.png
+2025-07-05 06:22:31.214 - Task completed. File name: chrome_jv554bsteX.png, Duration: 29 ms
+2025-07-05 21:22:29.666 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 21:22:29.666 - Executing: Capture region
+2025-07-05 21:22:46.143 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 21:22:46.153 - Task status: Preparing
+2025-07-05 21:22:46.167 - Image copied to clipboard.
+2025-07-05 21:22:46.176 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_JZF04IDxyK.png
+2025-07-05 21:22:46.181 - Task completed. File name: chrome_JZF04IDxyK.png, Duration: 28 ms
+2025-07-05 21:29:27.055 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 21:29:27.055 - Executing: Capture region
+2025-07-05 21:29:31.397 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 21:29:31.408 - Task status: Preparing
+2025-07-05 21:29:31.414 - Image copied to clipboard.
+2025-07-05 21:29:31.417 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_ILn8xhccOU.png
+2025-07-05 21:29:31.419 - Task completed. File name: chrome_ILn8xhccOU.png, Duration: 11 ms
+2025-07-05 21:46:27.433 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 21:46:27.433 - Executing: Capture region
+2025-07-05 21:46:29.403 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 21:46:29.407 - Task status: Preparing
+2025-07-05 21:46:29.413 - Image copied to clipboard.
+2025-07-05 21:46:29.417 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_GP6Y8Ig9JO.png
+2025-07-05 21:46:29.418 - Task completed. File name: chrome_GP6Y8Ig9JO.png, Duration: 11 ms
+2025-07-05 22:49:11.634 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 22:49:11.634 - Executing: Capture region
+2025-07-05 22:49:14.882 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 22:49:14.886 - Task status: Preparing
+2025-07-05 22:49:14.908 - Image copied to clipboard.
+2025-07-05 22:49:14.920 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_n7SFXjTc99.png
+2025-07-05 22:49:14.929 - Task completed. File name: chrome_n7SFXjTc99.png, Duration: 44 ms
+2025-07-05 23:11:32.023 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 23:11:32.023 - Executing: Capture region
+2025-07-05 23:11:33.486 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 23:11:33.491 - Task status: Preparing
+2025-07-05 23:11:33.506 - Image copied to clipboard.
+2025-07-05 23:11:33.511 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_2gQlEISGiv.png
+2025-07-05 23:11:33.514 - Task completed. File name: chrome_2gQlEISGiv.png, Duration: 23 ms
+2025-07-05 23:49:24.363 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 23:49:24.363 - Executing: Capture region
+2025-07-05 23:49:26.757 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 23:49:26.762 - Task status: Preparing
+2025-07-05 23:49:26.822 - Image copied to clipboard.
+2025-07-05 23:49:26.834 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_cl2tIY3HnQ.png
+2025-07-05 23:49:26.841 - Task completed. File name: chrome_cl2tIY3HnQ.png, Duration: 79 ms
+2025-07-05 23:51:23.595 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 23:51:23.595 - Executing: Capture region
+2025-07-05 23:51:26.391 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 23:51:26.394 - Task status: Preparing
+2025-07-05 23:51:26.440 - Image copied to clipboard.
+2025-07-05 23:51:26.459 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_NU6Ju0n1CK.png
+2025-07-05 23:51:26.470 - Task completed. File name: chrome_NU6Ju0n1CK.png, Duration: 76 ms
+2025-07-05 23:51:45.202 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 23:51:45.202 - Executing: Capture region
+2025-07-05 23:51:50.604 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-05 23:51:50.604 - Executing: Capture region
+2025-07-05 23:52:37.794 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-05 23:52:37.799 - Task status: Preparing
+2025-07-05 23:52:37.842 - Image copied to clipboard.
+2025-07-05 23:52:37.856 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_liNkCU92OJ.png
+2025-07-05 23:52:37.865 - Task completed. File name: chrome_liNkCU92OJ.png, Duration: 66 ms
+2025-07-06 02:20:56.390 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 02:20:56.390 - Executing: Capture region
+2025-07-06 02:20:58.956 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-06 02:20:58.962 - Task status: Preparing
+2025-07-06 02:20:58.967 - Image copied to clipboard.
+2025-07-06 02:20:58.972 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_sPSpUJUWSB.png
+2025-07-06 02:20:58.975 - Task completed. File name: opera_sPSpUJUWSB.png, Duration: 13 ms
+2025-07-06 02:21:45.489 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 02:21:45.489 - Executing: Capture region
+2025-07-06 02:21:47.237 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 02:21:47.237 - Executing: Capture region
+2025-07-06 02:21:50.262 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-06 02:21:50.266 - Task status: Preparing
+2025-07-06 02:21:50.282 - Image copied to clipboard.
+2025-07-06 02:21:50.292 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_SxD6HpBrJN.png
+2025-07-06 02:21:50.296 - Task completed. File name: opera_SxD6HpBrJN.png, Duration: 30 ms
+2025-07-06 02:45:22.219 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 02:45:22.219 - Executing: Capture region
+2025-07-06 02:45:23.741 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-06 02:45:23.745 - Task status: Preparing
+2025-07-06 02:45:23.958 - Image copied to clipboard.
+2025-07-06 02:45:24.181 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_bqv4FxqSTg.jpg
+2025-07-06 02:45:24.207 - Task completed. File name: Discord_bqv4FxqSTg.jpg, Duration: 461 ms
+2025-07-06 22:41:04.811 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 22:41:04.811 - Executing: Capture region
+2025-07-06 22:41:06.901 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-06 22:41:06.912 - Task status: Preparing
+2025-07-06 22:41:06.927 - Image copied to clipboard.
+2025-07-06 22:41:06.938 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_pPuhqOY2bw.png
+2025-07-06 22:41:06.942 - Task completed. File name: Discord_pPuhqOY2bw.png, Duration: 30 ms
+2025-07-06 23:48:11.293 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-06 23:48:11.293 - Executing: Capture region
+2025-07-06 23:48:14.156 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-06 23:48:14.176 - Task status: Preparing
+2025-07-06 23:48:14.185 - Image copied to clipboard.
+2025-07-06 23:48:14.190 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_UHPbFN0K8G.png
+2025-07-06 23:48:14.194 - Task completed. File name: Discord_UHPbFN0K8G.png, Duration: 17 ms
+2025-07-07 00:06:11.248 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 00:06:11.248 - Executing: Capture region
+2025-07-07 00:06:12.893 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 00:06:12.900 - Task status: Preparing
+2025-07-07 00:06:12.908 - Image copied to clipboard.
+2025-07-07 00:06:12.913 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_4YLHHw7EJ2.png
+2025-07-07 00:06:12.916 - Task completed. File name: Discord_4YLHHw7EJ2.png, Duration: 16 ms
+2025-07-07 00:12:17.425 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 00:12:17.425 - Executing: Capture region
+2025-07-07 00:12:20.437 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 00:12:20.456 - Task status: Preparing
+2025-07-07 00:12:20.476 - Image copied to clipboard.
+2025-07-07 00:12:20.486 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_risH4mX0pB.png
+2025-07-07 00:12:20.493 - Task completed. File name: Discord_risH4mX0pB.png, Duration: 37 ms
+2025-07-07 21:07:01.351 - GitHub update check failed.:
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'api.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.HelpersLib.WebHelpers.<DownloadStringAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.HelpersLib.GitHubUpdateChecker.<GetLatestRelease>d__25.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.HelpersLib.GitHubUpdateChecker.<GetLatestRelease>d__26.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.HelpersLib.GitHubUpdateChecker.<CheckUpdateAsync>d__22.MoveNext()
+2025-07-07 21:41:17.813 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 21:41:17.813 - Executing: Capture region
+2025-07-07 21:41:22.147 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 21:41:22.158 - Task status: Preparing
+2025-07-07 21:41:22.170 - Image copied to clipboard.
+2025-07-07 21:41:22.174 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\EXCEL_Vz9wjuPypv.png
+2025-07-07 21:41:22.178 - Task completed. File name: EXCEL_Vz9wjuPypv.png, Duration: 20 ms
+2025-07-07 21:42:57.286 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 21:42:57.286 - Executing: Capture region
+2025-07-07 21:42:59.089 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 21:42:59.092 - Task status: Preparing
+2025-07-07 21:42:59.105 - Image copied to clipboard.
+2025-07-07 21:42:59.108 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_uKk4rkqFx3.png
+2025-07-07 21:42:59.112 - Task completed. File name: chrome_uKk4rkqFx3.png, Duration: 20 ms
+2025-07-07 21:43:09.244 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 21:43:09.244 - Executing: Capture region
+2025-07-07 21:43:10.746 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 21:43:10.750 - Task status: Preparing
+2025-07-07 21:43:10.761 - Image copied to clipboard.
+2025-07-07 21:43:10.764 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_o1ufuid7Dw.png
+2025-07-07 21:43:10.769 - Task completed. File name: chrome_o1ufuid7Dw.png, Duration: 20 ms
+2025-07-07 21:43:34.097 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 21:43:34.097 - Executing: Capture region
+2025-07-07 21:43:35.769 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 21:43:35.772 - Task status: Preparing
+2025-07-07 21:43:35.786 - Image copied to clipboard.
+2025-07-07 21:43:35.791 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_OrAJaolXIu.png
+2025-07-07 21:43:35.795 - Task completed. File name: chrome_OrAJaolXIu.png, Duration: 22 ms
+2025-07-07 21:48:08.440 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 21:48:08.440 - Executing: Capture region
+2025-07-07 21:48:10.809 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 21:48:10.812 - Task status: Preparing
+2025-07-07 21:48:10.825 - Image copied to clipboard.
+2025-07-07 21:48:10.827 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_1Fflggt0rd.png
+2025-07-07 21:48:10.834 - Task completed. File name: chrome_1Fflggt0rd.png, Duration: 22 ms
+2025-07-07 22:27:34.122 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:27:34.122 - Executing: Capture region
+2025-07-07 22:27:36.270 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:27:36.280 - Task status: Preparing
+2025-07-07 22:27:36.291 - Image copied to clipboard.
+2025-07-07 22:27:36.294 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_jztexyJvAv.png
+2025-07-07 22:27:36.298 - Task completed. File name: chrome_jztexyJvAv.png, Duration: 18 ms
+2025-07-07 22:33:28.402 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:33:28.402 - Executing: Capture region
+2025-07-07 22:33:30.266 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:33:30.270 - Task status: Preparing
+2025-07-07 22:33:30.281 - Image copied to clipboard.
+2025-07-07 22:33:30.282 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_2QiF0pr5BJ.png
+2025-07-07 22:33:30.289 - Task completed. File name: chrome_2QiF0pr5BJ.png, Duration: 19 ms
+2025-07-07 22:35:28.471 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:35:28.471 - Executing: Capture region
+2025-07-07 22:35:30.787 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:35:30.792 - Task status: Preparing
+2025-07-07 22:35:30.803 - Image copied to clipboard.
+2025-07-07 22:35:30.804 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_PHtWYQz4zu.png
+2025-07-07 22:35:30.810 - Task completed. File name: chrome_PHtWYQz4zu.png, Duration: 18 ms
+2025-07-07 22:48:37.985 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:48:37.985 - Executing: Capture region
+2025-07-07 22:48:39.923 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:48:39.927 - Task status: Preparing
+2025-07-07 22:48:39.940 - Image copied to clipboard.
+2025-07-07 22:48:39.944 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_IDPilYCk1x.png
+2025-07-07 22:48:39.948 - Task completed. File name: chrome_IDPilYCk1x.png, Duration: 20 ms
+2025-07-07 22:52:23.247 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:52:23.247 - Executing: Capture region
+2025-07-07 22:52:29.023 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:52:29.027 - Task status: Preparing
+2025-07-07 22:52:29.040 - Image copied to clipboard.
+2025-07-07 22:52:29.041 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_SL7USfrTPQ.png
+2025-07-07 22:52:29.048 - Task completed. File name: chrome_SL7USfrTPQ.png, Duration: 21 ms
+2025-07-07 22:53:38.955 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-07 22:53:38.955 - Executing: Capture region
+2025-07-07 22:53:41.125 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-07 22:53:41.131 - Task status: Preparing
+2025-07-07 22:53:41.144 - Image copied to clipboard.
+2025-07-07 22:53:41.145 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_Q64RJMvapQ.png
+2025-07-07 22:53:41.152 - Task completed. File name: chrome_Q64RJMvapQ.png, Duration: 22 ms
+2025-07-08 00:43:41.635 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-08 00:43:41.635 - Executing: Capture region
+2025-07-08 00:43:46.759 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-08 00:43:46.763 - Task status: Preparing
+2025-07-08 00:43:46.838 - Image copied to clipboard.
+2025-07-08 00:43:46.889 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\FVk2svKFKL.png
+2025-07-08 00:43:46.907 - Task completed. File name: FVk2svKFKL.png, Duration: 144 ms
+2025-07-08 01:03:05.747 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-08 01:03:05.747 - Executing: Capture region
+2025-07-08 01:03:08.334 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-08 01:03:08.340 - Task status: Preparing
+2025-07-08 01:03:08.447 - Image copied to clipboard.
+2025-07-08 01:03:08.512 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_mRUPx12GoZ.png
+2025-07-08 01:03:08.525 - Task completed. File name: Discord_mRUPx12GoZ.png, Duration: 185 ms
+2025-07-08 02:39:22.594 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-08 02:39:22.594 - Executing: Capture region
+2025-07-08 02:39:24.489 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-08 02:39:24.493 - Task status: Preparing
+2025-07-08 02:39:24.499 - Image copied to clipboard.
+2025-07-08 02:39:24.502 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_2hUVNj5k4w.png
+2025-07-08 02:39:24.503 - Task completed. File name: steamwebhelper_2hUVNj5k4w.png, Duration: 10 ms
+2025-07-09 21:02:40.922 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-09 21:02:40.922 - Executing: Capture region
+2025-07-09 21:02:50.138 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-09 21:02:50.138 - Executing: Capture region
+2025-07-09 21:02:52.161 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-09 21:02:52.181 - Task status: Preparing
+2025-07-09 21:02:52.195 - Image copied to clipboard.
+2025-07-09 21:02:52.206 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_CYICPvkDoq.png
+2025-07-09 21:02:52.210 - Task completed. File name: chrome_CYICPvkDoq.png, Duration: 31 ms
+2025-07-09 21:23:14.010 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-09 21:23:14.010 - Executing: Capture entire screen
+2025-07-09 21:23:14.116 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-09 21:23:14.123 - Task status: Preparing
+2025-07-09 21:23:14.340 - Image copied to clipboard.
+2025-07-09 21:23:14.634 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\EIzL2cMRJm.jpg
+2025-07-09 21:23:14.658 - Task completed. File name: EIzL2cMRJm.jpg, Duration: 536 ms
+2025-07-10 00:56:33.214 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 00:56:33.214 - Executing: Capture region
+2025-07-10 00:56:35.343 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 00:56:35.352 - Task status: Preparing
+2025-07-10 00:56:35.450 - Image copied to clipboard.
+2025-07-10 00:56:35.512 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_p16U8OpSSx.png
+2025-07-10 00:56:35.526 - Task completed. File name: Discord_p16U8OpSSx.png, Duration: 174 ms
+2025-07-10 01:36:09.713 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 01:36:09.713 - Executing: Capture region
+2025-07-10 01:36:13.634 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-10 01:36:13.635 - Executing: Capture entire screen
+2025-07-10 01:36:13.677 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 01:36:13.687 - Task status: Preparing
+2025-07-10 01:36:13.792 - Image copied to clipboard.
+2025-07-10 01:36:13.908 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\nBa7MXj1pU.jpg
+2025-07-10 01:36:13.943 - Task completed. File name: nBa7MXj1pU.jpg, Duration: 256 ms
+2025-07-10 01:36:15.520 - URL opened: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\nBa7MXj1pU.jpg
+2025-07-10 03:08:57.917 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 03:08:57.918 - Executing: Capture region
+2025-07-10 03:09:00.410 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 03:09:00.416 - Task status: Preparing
+2025-07-10 03:09:00.431 - Image copied to clipboard.
+2025-07-10 03:09:00.434 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_VB7p49E6WS.png
+2025-07-10 03:09:00.442 - Task completed. File name: chrome_VB7p49E6WS.png, Duration: 25 ms
+2025-07-10 04:03:29.428 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 04:03:29.428 - Executing: Capture region
+2025-07-10 04:03:32.534 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 04:03:32.538 - Task status: Preparing
+2025-07-10 04:03:32.551 - Image copied to clipboard.
+2025-07-10 04:03:32.554 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_oCw5aKEvNP.png
+2025-07-10 04:03:32.586 - Task completed. File name: opera_oCw5aKEvNP.png, Duration: 47 ms
+2025-07-10 22:49:10.993 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 22:49:10.993 - Executing: Capture region
+2025-07-10 22:49:13.865 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 22:49:13.894 - Task status: Preparing
+2025-07-10 22:49:13.910 - Image copied to clipboard.
+2025-07-10 22:49:13.920 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_iU0yuw0Rgj.png
+2025-07-10 22:49:13.924 - Task completed. File name: chrome_iU0yuw0Rgj.png, Duration: 29 ms
+2025-07-10 22:49:25.205 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 22:49:25.205 - Executing: Capture region
+2025-07-10 22:49:29.018 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 22:49:29.022 - Task status: Preparing
+2025-07-10 22:49:29.036 - Image copied to clipboard.
+2025-07-10 22:49:29.044 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_kQZG9Y3Mt5.png
+2025-07-10 22:49:29.050 - Task completed. File name: chrome_kQZG9Y3Mt5.png, Duration: 27 ms
+2025-07-10 22:49:32.506 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 22:49:32.506 - Executing: Capture region
+2025-07-10 22:49:35.911 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 22:49:35.914 - Task status: Preparing
+2025-07-10 22:49:35.928 - Image copied to clipboard.
+2025-07-10 22:49:35.936 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_MkGtmcdD5M.png
+2025-07-10 22:49:35.941 - Task completed. File name: chrome_MkGtmcdD5M.png, Duration: 27 ms
+2025-07-10 23:11:28.296 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-10 23:11:28.296 - Executing: Capture region
+2025-07-10 23:11:29.823 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-10 23:11:29.830 - Task status: Preparing
+2025-07-10 23:11:29.835 - Image copied to clipboard.
+2025-07-10 23:11:29.838 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\SoundWireServer_44d8fnnOM0.png
+2025-07-10 23:11:29.839 - Task completed. File name: SoundWireServer_44d8fnnOM0.png, Duration: 9 ms
+2025-07-11 01:22:06.181 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 01:22:06.182 - Executing: Capture region
+2025-07-11 01:22:08.545 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 01:22:08.545 - Executing: Capture region
+2025-07-11 01:22:11.115 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-11 01:22:11.131 - Task status: Preparing
+2025-07-11 01:22:11.148 - Image copied to clipboard.
+2025-07-11 01:22:11.154 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_jR7yV7Pnfh.png
+2025-07-11 01:22:11.173 - Task completed. File name: chrome_jR7yV7Pnfh.png, Duration: 42 ms
+2025-07-11 21:18:02.285 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 21:18:02.285 - Executing: Capture region
+2025-07-11 21:18:04.654 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 21:18:04.654 - Executing: Capture region
+2025-07-11 21:18:15.630 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-11 21:18:15.640 - Task status: Preparing
+2025-07-11 21:18:15.648 - Image copied to clipboard.
+2025-07-11 21:18:15.657 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_Y0NiCDN3qF.png
+2025-07-11 21:18:15.660 - Task completed. File name: chrome_Y0NiCDN3qF.png, Duration: 20 ms
+2025-07-11 21:23:24.211 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 21:23:24.211 - Executing: Capture region
+2025-07-11 21:23:27.386 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-11 21:23:27.391 - Task status: Preparing
+2025-07-11 21:23:27.404 - Image copied to clipboard.
+2025-07-11 21:23:27.412 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_DDYTBlF0WH.png
+2025-07-11 21:23:27.421 - Task completed. File name: chrome_DDYTBlF0WH.png, Duration: 30 ms
+2025-07-11 21:24:25.965 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 21:24:25.966 - Executing: Capture region
+2025-07-11 21:24:27.952 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-11 21:24:27.957 - Task status: Preparing
+2025-07-11 21:24:27.975 - Image copied to clipboard.
+2025-07-11 21:24:27.985 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_iZ0uQ0Gta1.png
+2025-07-11 21:24:27.995 - Task completed. File name: chrome_iZ0uQ0Gta1.png, Duration: 38 ms
+2025-07-11 21:44:33.303 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-11 21:44:33.303 - Executing: Capture region
+2025-07-11 21:44:38.147 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-11 21:44:38.150 - Task status: Preparing
+2025-07-11 21:44:38.154 - Image copied to clipboard.
+2025-07-11 21:44:38.158 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_loLHin07rl.png
+2025-07-11 21:44:38.160 - Task completed. File name: opera_loLHin07rl.png, Duration: 10 ms
+2025-07-12 00:51:29.685 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 00:51:29.686 - Executing: Capture region
+2025-07-12 00:51:31.591 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 00:51:31.595 - Task status: Preparing
+2025-07-12 00:51:31.613 - Image copied to clipboard.
+2025-07-12 00:51:31.626 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_PFnkqGA0KT.png
+2025-07-12 00:51:31.633 - Task completed. File name: opera_PFnkqGA0KT.png, Duration: 38 ms
+2025-07-12 00:52:10.273 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 00:52:10.273 - Executing: Capture region
+2025-07-12 00:52:14.103 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 00:52:14.103 - Executing: Capture region
+2025-07-12 00:52:16.246 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 00:52:16.250 - Task status: Preparing
+2025-07-12 00:52:16.276 - Image copied to clipboard.
+2025-07-12 00:52:16.290 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_FA7fgENPqn.png
+2025-07-12 00:52:16.297 - Task completed. File name: opera_FA7fgENPqn.png, Duration: 47 ms
+2025-07-12 00:52:24.654 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 00:52:24.655 - Executing: Capture region
+2025-07-12 00:52:26.464 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 00:52:26.467 - Task status: Preparing
+2025-07-12 00:52:26.479 - Image copied to clipboard.
+2025-07-12 00:52:26.486 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_zLr0dHNTew.png
+2025-07-12 00:52:26.490 - Task completed. File name: opera_zLr0dHNTew.png, Duration: 23 ms
+2025-07-12 00:53:12.165 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 00:53:12.165 - Executing: Capture region
+2025-07-12 00:53:13.512 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 00:53:13.516 - Task status: Preparing
+2025-07-12 00:53:13.531 - Image copied to clipboard.
+2025-07-12 00:53:13.534 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_ohAlmfkDZQ.png
+2025-07-12 00:53:13.537 - Task completed. File name: opera_ohAlmfkDZQ.png, Duration: 20 ms
+2025-07-12 03:53:33.756 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 03:53:33.756 - Executing: Capture region
+2025-07-12 03:53:35.860 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 03:53:35.864 - Task status: Preparing
+2025-07-12 03:53:35.872 - Image copied to clipboard.
+2025-07-12 03:53:35.876 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\AnyDesk_KADzUQSX0n.png
+2025-07-12 03:53:35.878 - Task completed. File name: AnyDesk_KADzUQSX0n.png, Duration: 14 ms
+2025-07-12 03:57:28.528 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 03:57:28.528 - Executing: Capture region
+2025-07-12 03:57:31.651 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 03:57:31.671 - Task status: Preparing
+2025-07-12 03:57:31.676 - Image copied to clipboard.
+2025-07-12 03:57:31.677 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\cmd_q48nsqwHSM.png
+2025-07-12 03:57:31.679 - Task completed. File name: cmd_q48nsqwHSM.png, Duration: 8 ms
+2025-07-12 04:08:35.619 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 04:08:35.619 - Executing: Capture region
+2025-07-12 04:08:37.480 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 04:08:37.483 - Task status: Preparing
+2025-07-12 04:08:37.513 - Image copied to clipboard.
+2025-07-12 04:08:37.530 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\spacedeskConsole_Yzo9Ustq90.png
+2025-07-12 04:08:37.541 - Task completed. File name: spacedeskConsole_Yzo9Ustq90.png, Duration: 57 ms
+2025-07-12 04:17:31.239 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 04:17:31.239 - Executing: Capture region
+2025-07-12 04:17:31.869 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 04:17:31.872 - Task status: Preparing
+2025-07-12 04:17:31.887 - Image copied to clipboard.
+2025-07-12 04:17:31.896 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\cmd_cch8u9oe5j.png
+2025-07-12 04:17:31.902 - Task completed. File name: cmd_cch8u9oe5j.png, Duration: 30 ms
+2025-07-12 04:19:35.355 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 04:19:35.355 - Executing: Capture region
+2025-07-12 04:19:37.868 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 04:19:37.874 - Task status: Preparing
+2025-07-12 04:19:37.883 - Image copied to clipboard.
+2025-07-12 04:19:37.889 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_v8DvGnSf8x.png
+2025-07-12 04:19:37.892 - Task completed. File name: opera_v8DvGnSf8x.png, Duration: 19 ms
+2025-07-12 12:25:04.525 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-12 12:25:04.525 - Executing: Capture region
+2025-07-12 12:25:07.747 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-12 12:25:07.758 - Task status: Preparing
+2025-07-12 12:25:07.781 - Image copied to clipboard.
+2025-07-12 12:25:07.802 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_wYjIp6Ynsp.png
+2025-07-12 12:25:07.810 - Task completed. File name: opera_wYjIp6Ynsp.png, Duration: 53 ms
+2025-07-13 00:09:08.216 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-13 00:09:08.216 - Executing: Capture region
+2025-07-13 00:09:10.952 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-13 00:09:10.961 - Task status: Preparing
+2025-07-13 00:09:10.990 - Image copied to clipboard.
+2025-07-13 00:09:11.013 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_PCi6Nx88Qs.png
+2025-07-13 00:09:11.024 - Task completed. File name: opera_PCi6Nx88Qs.png, Duration: 63 ms
+2025-07-14 04:54:34.402 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 04:54:34.404 - Executing: Capture region
+2025-07-14 04:54:38.561 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-14 04:54:38.723 - Task status: Preparing
+2025-07-14 04:54:38.801 - Image copied to clipboard.
+2025-07-14 04:54:38.917 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_otAID4Ow9d.png
+2025-07-14 04:54:38.927 - Task completed. File name: Discord_otAID4Ow9d.png, Duration: 205 ms
+2025-07-14 08:37:44.142 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 08:37:44.142 - Executing: Capture region
+2025-07-14 08:37:47.493 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 08:37:47.493 - Executing: Capture region
+2025-07-14 08:37:59.165 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 08:37:59.165 - Executing: Capture region
+2025-07-14 08:38:17.590 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-14 08:38:17.605 - Task status: Preparing
+2025-07-14 08:38:17.705 - Image copied to clipboard.
+2025-07-14 08:38:17.773 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_JiDkzxL43C.png
+2025-07-14 08:38:17.783 - Task completed. File name: Discord_JiDkzxL43C.png, Duration: 177 ms
+2025-07-14 08:38:39.736 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 08:38:39.736 - Executing: Capture region
+2025-07-14 08:38:50.286 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-14 08:38:50.291 - Task status: Preparing
+2025-07-14 08:38:50.302 - Image copied to clipboard.
+2025-07-14 08:38:50.307 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_seGBNMYJ7V.png
+2025-07-14 08:38:50.310 - Task completed. File name: opera_seGBNMYJ7V.png, Duration: 19 ms
+2025-07-14 08:39:34.921 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-14 08:39:34.921 - Executing: Capture region
+2025-07-14 08:39:45.960 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-14 08:39:45.969 - Task status: Preparing
+2025-07-14 08:39:45.976 - Image copied to clipboard.
+2025-07-14 08:39:45.980 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\MonsterHunterWilds_PCLd6ileLM.png
+2025-07-14 08:39:45.984 - Task completed. File name: MonsterHunterWilds_PCLd6ileLM.png, Duration: 15 ms
+2025-07-15 05:41:42.324 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-15 05:41:42.325 - Executing: Capture region
+2025-07-15 05:41:45.800 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-15 05:41:45.831 - Task status: Preparing
+2025-07-15 05:41:45.859 - Image copied to clipboard.
+2025-07-15 05:41:45.878 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_OyiWBcJQ2B.png
+2025-07-15 05:41:45.887 - Task completed. File name: opera_OyiWBcJQ2B.png, Duration: 56 ms
+2025-07-15 05:42:33.365 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-15 05:42:33.365 - Executing: Capture region
+2025-07-15 05:42:35.598 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-15 05:42:35.602 - Task status: Preparing
+2025-07-15 05:42:35.652 - Image copied to clipboard.
+2025-07-15 05:42:35.661 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_6CGZrGZtq8.png
+2025-07-15 05:42:35.665 - Task completed. File name: opera_6CGZrGZtq8.png, Duration: 63 ms
+2025-07-16 00:13:07.658 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 00:13:07.659 - Executing: Capture region
+2025-07-16 00:13:09.463 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 00:13:09.524 - Task status: Preparing
+2025-07-16 00:13:09.542 - Image copied to clipboard.
+2025-07-16 00:13:09.554 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\EpicGamesLauncher_kTODOxzdOx.png
+2025-07-16 00:13:09.556 - Task completed. File name: EpicGamesLauncher_kTODOxzdOx.png, Duration: 32 ms
+2025-07-16 02:12:15.381 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 02:12:15.381 - Executing: Capture region
+2025-07-16 02:12:17.962 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 02:12:17.992 - Task status: Preparing
+2025-07-16 02:12:18.005 - Image copied to clipboard.
+2025-07-16 02:12:18.017 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_Z4nEq5sYsT.png
+2025-07-16 02:12:18.021 - Task completed. File name: explorer_Z4nEq5sYsT.png, Duration: 30 ms
+2025-07-16 02:12:22.526 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 02:12:22.526 - Executing: Capture region
+2025-07-16 02:12:24.734 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 02:12:24.739 - Task status: Preparing
+2025-07-16 02:12:24.753 - Image copied to clipboard.
+2025-07-16 02:12:24.763 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_9c0XSFHxVc.png
+2025-07-16 02:12:24.767 - Task completed. File name: steamwebhelper_9c0XSFHxVc.png, Duration: 28 ms
+2025-07-16 02:14:08.422 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 02:14:08.422 - Executing: Capture region
+2025-07-16 02:14:11.107 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 02:14:11.114 - Task status: Preparing
+2025-07-16 02:14:11.121 - Image copied to clipboard.
+2025-07-16 02:14:11.124 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_ORaUsZGBnn.png
+2025-07-16 02:14:11.126 - Task completed. File name: explorer_ORaUsZGBnn.png, Duration: 12 ms
+2025-07-16 06:01:08.446 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 06:01:08.447 - Executing: Capture region
+2025-07-16 06:01:09.948 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 06:01:09.953 - Task status: Preparing
+2025-07-16 06:01:09.962 - Image copied to clipboard.
+2025-07-16 06:01:09.967 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_t47ZTfHEbV.png
+2025-07-16 06:01:09.970 - Task completed. File name: explorer_t47ZTfHEbV.png, Duration: 16 ms
+2025-07-16 06:59:36.610 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 06:59:36.611 - Executing: Capture region
+2025-07-16 06:59:38.677 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 06:59:38.703 - Task status: Preparing
+2025-07-16 06:59:38.715 - Image copied to clipboard.
+2025-07-16 06:59:38.725 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_zeaml99nzp.png
+2025-07-16 06:59:38.728 - Task completed. File name: opera_zeaml99nzp.png, Duration: 26 ms
+2025-07-16 07:57:01.011 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 07:57:01.012 - Executing: Capture region
+2025-07-16 07:57:04.408 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 07:57:04.438 - Task status: Preparing
+2025-07-16 07:57:04.449 - Image copied to clipboard.
+2025-07-16 07:57:04.459 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TS4_x64_aCzxrYHAHl.png
+2025-07-16 07:57:04.462 - Task completed. File name: TS4_x64_aCzxrYHAHl.png, Duration: 25 ms
+2025-07-16 12:00:16.350 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 12:00:16.350 - Executing: Capture region
+2025-07-16 12:00:19.642 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 12:00:19.658 - Task status: Preparing
+2025-07-16 12:00:19.664 - Image copied to clipboard.
+2025-07-16 12:00:19.670 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_jhukOpnsnS.png
+2025-07-16 12:00:19.672 - Task completed. File name: Discord_jhukOpnsnS.png, Duration: 14 ms
+2025-07-16 13:17:40.046 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 13:17:40.046 - Executing: Capture region
+2025-07-16 13:17:44.882 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 13:17:44.896 - Task status: Preparing
+2025-07-16 13:17:44.912 - Image copied to clipboard.
+2025-07-16 13:17:44.919 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_PkuE0a3dXa.png
+2025-07-16 13:17:44.935 - Task completed. File name: Discord_PkuE0a3dXa.png, Duration: 39 ms
+2025-07-16 21:22:59.169 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 21:22:59.169 - Executing: Capture region
+2025-07-16 21:23:03.780 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 21:23:03.791 - Task status: Preparing
+2025-07-16 21:23:03.797 - Image copied to clipboard.
+2025-07-16 21:23:03.801 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_FnlyqT8m38.png
+2025-07-16 21:23:03.804 - Task completed. File name: chrome_FnlyqT8m38.png, Duration: 13 ms
+2025-07-16 21:24:22.570 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 21:24:22.570 - Executing: Capture region
+2025-07-16 21:24:26.602 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 21:24:26.607 - Task status: Preparing
+2025-07-16 21:24:26.613 - Image copied to clipboard.
+2025-07-16 21:24:26.614 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_MRC6DVDnYC.png
+2025-07-16 21:24:26.616 - Task completed. File name: opera_MRC6DVDnYC.png, Duration: 9 ms
+2025-07-16 22:57:22.383 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 22:57:22.383 - Executing: Capture region
+2025-07-16 22:57:25.083 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 22:57:25.093 - Task status: Preparing
+2025-07-16 22:57:25.129 - Image copied to clipboard.
+2025-07-16 22:57:25.165 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_wBZJuuh15O.png
+2025-07-16 22:57:25.175 - Task completed. File name: opera_wBZJuuh15O.png, Duration: 83 ms
+2025-07-16 23:40:16.426 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 23:40:16.426 - Executing: Capture region
+2025-07-16 23:40:19.110 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 23:40:19.119 - Task status: Preparing
+2025-07-16 23:40:19.148 - Image copied to clipboard.
+2025-07-16 23:40:19.179 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_XfTas4vRwn.png
+2025-07-16 23:40:19.186 - Task completed. File name: Discord_XfTas4vRwn.png, Duration: 68 ms
+2025-07-16 23:40:21.478 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 23:40:21.478 - Executing: Capture region
+2025-07-16 23:40:23.022 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 23:40:23.027 - Task status: Preparing
+2025-07-16 23:40:23.052 - Image copied to clipboard.
+2025-07-16 23:40:23.069 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_9VsofBGQAh.png
+2025-07-16 23:40:23.074 - Task completed. File name: Discord_9VsofBGQAh.png, Duration: 47 ms
+2025-07-16 23:40:27.848 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 23:40:27.848 - Executing: Capture region
+2025-07-16 23:40:29.592 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 23:40:29.597 - Task status: Preparing
+2025-07-16 23:40:29.614 - Image copied to clipboard.
+2025-07-16 23:40:29.628 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_SrcYDTYQnj.png
+2025-07-16 23:40:29.634 - Task completed. File name: Discord_SrcYDTYQnj.png, Duration: 37 ms
+2025-07-16 23:40:32.236 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 23:40:32.236 - Executing: Capture region
+2025-07-16 23:40:33.609 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 23:40:33.616 - Task status: Preparing
+2025-07-16 23:40:33.644 - Image copied to clipboard.
+2025-07-16 23:40:33.666 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_JAcou0MrSB.png
+2025-07-16 23:40:33.671 - Task completed. File name: Discord_JAcou0MrSB.png, Duration: 56 ms
+2025-07-16 23:40:38.073 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-16 23:40:38.073 - Executing: Capture region
+2025-07-16 23:40:39.941 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-16 23:40:39.952 - Task status: Preparing
+2025-07-16 23:40:39.986 - Image copied to clipboard.
+2025-07-16 23:40:40.015 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_lLz4CuqOr7.png
+2025-07-16 23:40:40.023 - Task completed. File name: Discord_lLz4CuqOr7.png, Duration: 71 ms
+2025-07-17 00:48:09.199 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 00:48:09.200 - Executing: Capture region
+2025-07-17 00:48:12.802 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 00:48:12.808 - Task status: Preparing
+2025-07-17 00:48:12.845 - Image copied to clipboard.
+2025-07-17 00:48:12.867 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_HPVNrGAsbS.png
+2025-07-17 00:48:12.879 - Task completed. File name: chrome_HPVNrGAsbS.png, Duration: 71 ms
+2025-07-17 00:48:25.084 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 00:48:25.084 - Executing: Capture region
+2025-07-17 00:48:29.931 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 00:48:29.937 - Task status: Preparing
+2025-07-17 00:48:29.963 - Image copied to clipboard.
+2025-07-17 00:48:29.979 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_ZMbEMwfErx.png
+2025-07-17 00:48:29.988 - Task completed. File name: chrome_ZMbEMwfErx.png, Duration: 51 ms
+2025-07-17 02:14:25.348 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 02:14:25.348 - Executing: Capture region
+2025-07-17 02:14:37.846 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 02:14:37.855 - Task status: Preparing
+2025-07-17 02:14:37.865 - Image copied to clipboard.
+2025-07-17 02:14:37.870 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_tc2sawoQu4.png
+2025-07-17 02:14:37.873 - Task completed. File name: chrome_tc2sawoQu4.png, Duration: 19 ms
+2025-07-17 02:15:53.779 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 02:15:53.779 - Executing: Capture region
+2025-07-17 02:16:25.949 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 02:16:25.968 - Task status: Preparing
+2025-07-17 02:16:25.979 - Image copied to clipboard.
+2025-07-17 02:16:25.986 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_zNunyGy8hE.png
+2025-07-17 02:16:25.991 - Task completed. File name: chrome_zNunyGy8hE.png, Duration: 23 ms
+2025-07-17 02:18:23.417 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 02:18:23.417 - Executing: Capture region
+2025-07-17 02:18:31.557 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 02:18:31.557 - Executing: Capture region
+2025-07-17 02:18:38.943 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 02:18:38.947 - Task status: Preparing
+2025-07-17 02:18:38.952 - Image copied to clipboard.
+2025-07-17 02:18:38.955 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_bu8zDBeTBK.png
+2025-07-17 02:18:38.956 - Task completed. File name: chrome_bu8zDBeTBK.png, Duration: 9 ms
+2025-07-17 08:41:28.127 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 08:41:28.127 - Executing: Capture region
+2025-07-17 08:41:31.082 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 08:41:31.087 - Task status: Preparing
+2025-07-17 08:41:31.107 - Image copied to clipboard.
+2025-07-17 08:41:31.120 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_7PudffU8O7.png
+2025-07-17 08:41:31.143 - Task completed. File name: steamwebhelper_7PudffU8O7.png, Duration: 57 ms
+2025-07-17 08:41:33.241 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 08:41:33.241 - Executing: Capture region
+2025-07-17 08:41:36.847 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-17 08:41:36.847 - Executing: Capture region
+2025-07-17 08:41:39.617 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-17 08:41:39.621 - Task status: Preparing
+2025-07-17 08:41:39.645 - Image copied to clipboard.
+2025-07-17 08:41:39.663 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_CxWdWW3Tgb.png
+2025-07-17 08:41:39.686 - Task completed. File name: steamwebhelper_CxWdWW3Tgb.png, Duration: 65 ms
+2025-07-18 22:14:04.009 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-18 22:14:04.010 - Executing: Capture region
+2025-07-18 22:14:08.075 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-18 22:14:08.122 - Task status: Preparing
+2025-07-18 22:14:08.148 - Image copied to clipboard.
+2025-07-18 22:14:08.161 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_Vw4OsxREHy.png
+2025-07-18 22:14:08.188 - Task completed. File name: chrome_Vw4OsxREHy.png, Duration: 45 ms
+2025-07-18 22:20:54.881 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-18 22:20:54.881 - Executing: Start/Stop screen recording (GIF)
+2025-07-18 22:20:54.907 - Starting screen recording. Video encoder: "GIF", Audio encoder: "AAC", FPS: 15
+2025-07-18 22:21:40.234 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-18 22:21:40.234 - Executing: Capture region
+2025-07-18 22:21:43.382 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-18 22:21:43.406 - Task status: Preparing
+2025-07-18 22:21:43.414 - Image copied to clipboard.
+2025-07-18 22:21:43.417 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_MZlvQQ7htq.png
+2025-07-18 22:21:43.420 - Task completed. File name: chrome_MZlvQQ7htq.png, Duration: 14 ms
+2025-07-19 01:09:32.123 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:09:32.124 - Executing: Capture region
+2025-07-19 01:09:34.553 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:09:34.563 - Task status: Preparing
+2025-07-19 01:09:34.591 - Image copied to clipboard.
+2025-07-19 01:09:34.611 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_moCCCs0zNV.png
+2025-07-19 01:09:34.620 - Task completed. File name: chrome_moCCCs0zNV.png, Duration: 56 ms
+2025-07-19 01:10:35.161 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:10:35.161 - Executing: Capture region
+2025-07-19 01:10:37.662 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:10:37.668 - Task status: Preparing
+2025-07-19 01:10:37.697 - Image copied to clipboard.
+2025-07-19 01:10:37.711 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_PwmEbHpPj2.png
+2025-07-19 01:10:37.721 - Task completed. File name: chrome_PwmEbHpPj2.png, Duration: 53 ms
+2025-07-19 01:10:43.139 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:10:43.139 - Executing: Capture region
+2025-07-19 01:10:47.268 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:10:47.274 - Task status: Preparing
+2025-07-19 01:10:47.302 - Image copied to clipboard.
+2025-07-19 01:10:47.321 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_QzLylGRYKz.png
+2025-07-19 01:10:47.331 - Task completed. File name: chrome_QzLylGRYKz.png, Duration: 57 ms
+2025-07-19 01:14:49.953 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:14:49.953 - Executing: Capture region
+2025-07-19 01:14:53.045 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:14:53.050 - Task status: Preparing
+2025-07-19 01:14:53.069 - Image copied to clipboard.
+2025-07-19 01:14:53.079 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_iJiDcoghUc.png
+2025-07-19 01:14:53.086 - Task completed. File name: chrome_iJiDcoghUc.png, Duration: 36 ms
+2025-07-19 01:14:59.097 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:14:59.098 - Executing: Capture region
+2025-07-19 01:15:00.737 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:15:00.737 - Executing: Capture region
+2025-07-19 01:15:06.826 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:15:06.831 - Task status: Preparing
+2025-07-19 01:15:06.866 - Image copied to clipboard.
+2025-07-19 01:15:06.884 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_xI9LvFUweP.png
+2025-07-19 01:15:06.892 - Task completed. File name: chrome_xI9LvFUweP.png, Duration: 61 ms
+2025-07-19 01:46:34.939 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:46:34.939 - Executing: Capture region
+2025-07-19 01:46:39.668 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:46:39.674 - Task status: Preparing
+2025-07-19 01:46:39.691 - Image copied to clipboard.
+2025-07-19 01:46:39.702 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_LxVBVXchA1.png
+2025-07-19 01:46:39.709 - Task completed. File name: chrome_LxVBVXchA1.png, Duration: 35 ms
+2025-07-19 01:46:48.553 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:46:48.553 - Executing: Capture region
+2025-07-19 01:46:50.702 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:46:50.718 - Task status: Preparing
+2025-07-19 01:46:50.733 - Image copied to clipboard.
+2025-07-19 01:46:50.741 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_JtlZyhBAkT.png
+2025-07-19 01:46:50.747 - Task completed. File name: chrome_JtlZyhBAkT.png, Duration: 29 ms
+2025-07-19 01:48:19.009 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 01:48:19.009 - Executing: Capture region
+2025-07-19 01:48:23.808 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 01:48:23.813 - Task status: Preparing
+2025-07-19 01:48:23.827 - Image copied to clipboard.
+2025-07-19 01:48:23.834 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\chrome_UEqo97WxoW.png
+2025-07-19 01:48:23.839 - Task completed. File name: chrome_UEqo97WxoW.png, Duration: 26 ms
+2025-07-19 05:41:17.100 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 05:41:17.100 - Executing: Capture region
+2025-07-19 05:41:27.442 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 05:41:27.454 - Task status: Preparing
+2025-07-19 05:41:27.461 - Image copied to clipboard.
+2025-07-19 05:41:27.467 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_DyYbsK3IwB.png
+2025-07-19 05:41:27.470 - Task completed. File name: Discord_DyYbsK3IwB.png, Duration: 17 ms
+2025-07-19 22:39:27.494 - ShareX closing.
+2025-07-19 22:39:27.526 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-19 22:39:27.787 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-19 22:39:27.790 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-19 22:39:27.873 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-19 22:39:27.876 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-19 22:39:27.894 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-19 22:39:27.894 - ShareX closed.
+2025-07-19 22:40:59.385 - ShareX starting.
+2025-07-19 22:40:59.386 - Version: 17.1
+2025-07-19 22:40:59.386 - Build: Release
+2025-07-19 22:40:59.386 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2025-07-19 22:40:59.386 - Personal path: C:\Users\deves\Documents\ShareX
+2025-07-19 22:40:59.386 - Operating system: Windows 10 Home (64-bit)
+2025-07-19 22:40:59.387 - Running as elevated process: False
+2025-07-19 22:40:59.397 - Flags: SilentRun
+2025-07-19 22:40:59.426 - ApplicationConfig load started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-19 22:41:00.305 - ApplicationConfig load finished: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-19 22:41:00.312 - UploadersConfig load started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-19 22:41:00.328 - Language changed to: English (United States)
+2025-07-19 22:41:00.338 - MainForm init started.
+2025-07-19 22:41:00.488 - UploadersConfig load finished: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-19 22:41:00.492 - HotkeysConfig load started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-19 22:41:00.554 - HotkeysConfig load finished: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-19 22:41:01.196 - MainForm init finished.
+2025-07-19 22:41:01.855 - Hotkey registered: Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 22:41:01.855 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-19 22:41:01.855 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-07-19 22:41:01.855 - Hotkey registered: Hotkey: Ctrl + Shift + Alt + S, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-07-19 22:41:01.855 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-19 22:41:01.856 - HotkeyManager started.
+2025-07-19 22:41:01.857 - WatchFolderManager started.
+2025-07-19 22:41:01.867 - Startup time: 2513 ms
+2025-07-19 22:41:01.872 - CommandLine: -silent
+2025-07-19 23:02:25.974 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 23:02:25.979 - Executing: Capture region
+2025-07-19 23:02:28.606 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 23:02:28.607 - Executing: Capture region
+2025-07-19 23:02:36.552 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 23:02:36.589 - Task status: Preparing
+2025-07-19 23:02:36.622 - Image copied to clipboard.
+2025-07-19 23:02:36.644 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_k62pb2G7FA.png
+2025-07-19 23:02:36.661 - Task completed. File name: opera_k62pb2G7FA.png, Duration: 68 ms
+2025-07-19 23:03:09.580 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 23:03:09.580 - Executing: Capture region
+2025-07-19 23:03:12.368 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-19 23:03:12.368 - Executing: Capture region
+2025-07-19 23:03:15.503 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-19 23:03:15.514 - Task status: Preparing
+2025-07-19 23:03:15.603 - Image copied to clipboard.
+2025-07-19 23:03:15.707 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_fHDwOXhVQ7.jpg
+2025-07-19 23:03:15.727 - Task completed. File name: opera_fHDwOXhVQ7.jpg, Duration: 213 ms
+2025-07-19 23:03:16.221 - URL opened: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_fHDwOXhVQ7.jpg
+2025-07-20 00:43:45.528 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-20 00:43:45.528 - Executing: Capture region
+2025-07-20 00:43:48.916 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-20 00:43:48.916 - Executing: Capture region
+2025-07-20 00:43:51.013 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-20 00:43:51.020 - Task status: Preparing
+2025-07-20 00:43:51.026 - Image copied to clipboard.
+2025-07-20 00:43:51.031 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\javaw_hJHaSbWRgw.png
+2025-07-20 00:43:51.033 - Task completed. File name: javaw_hJHaSbWRgw.png, Duration: 12 ms
+2025-07-20 05:39:00.865 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-20 05:39:00.866 - Executing: Capture region
+2025-07-20 05:39:04.524 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-20 05:39:04.546 - Task status: Preparing
+2025-07-20 05:39:04.653 - Image copied to clipboard.
+2025-07-20 05:39:04.747 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_GgSojnX7cN.jpg
+2025-07-20 05:39:04.757 - Task completed. File name: Discord_GgSojnX7cN.jpg, Duration: 211 ms
+2025-07-22 18:20:56.901 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 18:20:56.901 - Executing: Capture region
+2025-07-22 18:21:02.342 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 18:21:02.367 - Task status: Preparing
+2025-07-22 18:21:02.385 - Image copied to clipboard.
+2025-07-22 18:21:02.393 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_co30P9QAQm.png
+2025-07-22 18:21:02.395 - Task completed. File name: opera_co30P9QAQm.png, Duration: 28 ms
+2025-07-22 19:40:17.014 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 19:40:17.015 - Executing: Capture region
+2025-07-22 19:40:19.443 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 19:40:19.449 - Task status: Preparing
+2025-07-22 19:40:19.491 - Image copied to clipboard.
+2025-07-22 19:40:19.513 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_UGKJV4vc41.png
+2025-07-22 19:40:19.524 - Task completed. File name: opera_UGKJV4vc41.png, Duration: 75 ms
+2025-07-22 19:40:58.093 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 19:40:58.093 - Executing: Capture region
+2025-07-22 19:40:59.932 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 19:40:59.943 - Task status: Preparing
+2025-07-22 19:40:59.956 - Image copied to clipboard.
+2025-07-22 19:40:59.966 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_q33jn8vHmC.png
+2025-07-22 19:40:59.973 - Task completed. File name: steamwebhelper_q33jn8vHmC.png, Duration: 32 ms
+2025-07-22 19:41:07.667 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 19:41:07.667 - Executing: Capture region
+2025-07-22 19:41:11.414 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 19:41:11.419 - Task status: Preparing
+2025-07-22 19:41:11.436 - Image copied to clipboard.
+2025-07-22 19:41:11.445 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_4rWrBxnl4I.png
+2025-07-22 19:41:11.451 - Task completed. File name: opera_4rWrBxnl4I.png, Duration: 32 ms
+2025-07-22 21:17:16.098 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 21:17:16.098 - Executing: Capture region
+2025-07-22 21:17:17.640 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 21:17:17.647 - Task status: Preparing
+2025-07-22 21:17:17.655 - Image copied to clipboard.
+2025-07-22 21:17:17.659 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\REgBXPawMY.png
+2025-07-22 21:17:17.662 - Task completed. File name: REgBXPawMY.png, Duration: 16 ms
+2025-07-22 21:20:14.271 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 21:20:14.271 - Executing: Capture region
+2025-07-22 21:20:15.515 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 21:20:15.521 - Task status: Preparing
+2025-07-22 21:20:15.532 - Image copied to clipboard.
+2025-07-22 21:20:15.534 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\QKW2sSWleb.png
+2025-07-22 21:20:15.538 - Task completed. File name: QKW2sSWleb.png, Duration: 17 ms
+2025-07-22 21:44:08.039 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 21:44:08.040 - Executing: Capture region
+2025-07-22 23:36:24.042 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 23:36:24.042 - Executing: Capture region
+2025-07-22 23:36:27.120 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-22 23:36:27.130 - Task status: Preparing
+2025-07-22 23:36:27.139 - Image copied to clipboard.
+2025-07-22 23:36:27.147 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_jUphIpNOeY.png
+2025-07-22 23:36:27.149 - Task completed. File name: opera_jUphIpNOeY.png, Duration: 19 ms
+2025-07-22 23:57:52.303 - ShareX closing.
+2025-07-22 23:57:52.323 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-22 23:57:52.640 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-22 23:57:52.640 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-22 23:57:52.712 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-22 23:57:52.712 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-22 23:57:52.729 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-22 23:59:26.685 - ShareX starting.
+2025-07-22 23:59:26.685 - Version: 17.1
+2025-07-22 23:59:26.685 - Build: Release
+2025-07-22 23:59:26.685 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2025-07-22 23:59:26.685 - Personal path: C:\Users\deves\Documents\ShareX
+2025-07-22 23:59:26.686 - Operating system: Windows 10 Home (64-bit)
+2025-07-22 23:59:26.686 - Running as elevated process: False
+2025-07-22 23:59:26.694 - Flags: SilentRun
+2025-07-22 23:59:26.714 - ApplicationConfig load started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-22 23:59:27.350 - ApplicationConfig load finished: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-22 23:59:27.356 - UploadersConfig load started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-22 23:59:27.365 - Language changed to: English (United States)
+2025-07-22 23:59:27.367 - MainForm init started.
+2025-07-22 23:59:27.471 - UploadersConfig load finished: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-22 23:59:27.472 - HotkeysConfig load started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-22 23:59:27.509 - HotkeysConfig load finished: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-22 23:59:27.858 - MainForm init finished.
+2025-07-22 23:59:27.998 - Hotkey registered: Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-22 23:59:27.998 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-22 23:59:27.998 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-07-22 23:59:27.998 - Hotkey registered: Hotkey: Ctrl + Shift + Alt + S, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-07-22 23:59:27.998 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-22 23:59:27.999 - HotkeyManager started.
+2025-07-22 23:59:27.999 - WatchFolderManager started.
+2025-07-22 23:59:28.014 - Startup time: 1355 ms
+2025-07-22 23:59:28.019 - CommandLine: -silent
+2025-07-23 14:05:57.441 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:05:57.448 - Executing: Capture region
+2025-07-23 14:06:00.467 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:06:00.551 - Task status: Preparing
+2025-07-23 14:06:00.581 - Image copied to clipboard.
+2025-07-23 14:06:00.595 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_AsdBCy8AYq.png
+2025-07-23 14:06:00.604 - Task completed. File name: steamwebhelper_AsdBCy8AYq.png, Duration: 50 ms
+2025-07-23 14:20:53.421 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:20:53.422 - Executing: Capture region
+2025-07-23 14:20:55.734 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:20:55.747 - Task status: Preparing
+2025-07-23 14:20:55.759 - Image copied to clipboard.
+2025-07-23 14:20:55.766 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_G2hcZLpcKn.png
+2025-07-23 14:20:55.767 - Task completed. File name: Discord_G2hcZLpcKn.png, Duration: 21 ms
+2025-07-23 14:21:53.353 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:21:53.353 - Executing: Capture region
+2025-07-23 14:21:55.965 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:21:55.977 - Task status: Preparing
+2025-07-23 14:21:56.006 - Image copied to clipboard.
+2025-07-23 14:21:56.027 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_KfRen6UT5p.png
+2025-07-23 14:21:56.033 - Task completed. File name: Discord_KfRen6UT5p.png, Duration: 57 ms
+2025-07-23 14:22:07.702 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:22:07.703 - Executing: Capture region
+2025-07-23 14:22:10.913 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:22:10.917 - Task status: Preparing
+2025-07-23 14:22:10.970 - Image copied to clipboard.
+2025-07-23 14:22:11.017 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_Xs1BxkDxlD.png
+2025-07-23 14:22:11.026 - Task completed. File name: Discord_Xs1BxkDxlD.png, Duration: 109 ms
+2025-07-23 14:22:33.018 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:22:33.018 - Executing: Capture region
+2025-07-23 14:22:38.886 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:22:38.886 - Executing: Capture region
+2025-07-23 14:22:42.966 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:22:42.971 - Task status: Preparing
+2025-07-23 14:22:43.021 - Image copied to clipboard.
+2025-07-23 14:22:43.068 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_4sSrrmDYZq.png
+2025-07-23 14:22:43.076 - Task completed. File name: Discord_4sSrrmDYZq.png, Duration: 105 ms
+2025-07-23 14:23:57.301 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:23:57.301 - Executing: Capture region
+2025-07-23 14:23:59.864 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:23:59.871 - Task status: Preparing
+2025-07-23 14:23:59.894 - Image copied to clipboard.
+2025-07-23 14:23:59.909 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_xLzJ4eVm8X.png
+2025-07-23 14:23:59.915 - Task completed. File name: Discord_xLzJ4eVm8X.png, Duration: 44 ms
+2025-07-23 14:24:42.146 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:24:42.146 - Executing: Capture region
+2025-07-23 14:24:46.181 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:24:46.186 - Task status: Preparing
+2025-07-23 14:24:46.234 - Image copied to clipboard.
+2025-07-23 14:24:46.283 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_HYOnJAd1R1.png
+2025-07-23 14:24:46.290 - Task completed. File name: Discord_HYOnJAd1R1.png, Duration: 104 ms
+2025-07-23 14:26:02.738 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:26:02.739 - Executing: Capture region
+2025-07-23 14:26:04.550 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:26:04.555 - Task status: Preparing
+2025-07-23 14:26:04.608 - Image copied to clipboard.
+2025-07-23 14:26:04.650 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_Mlopnk3T0K.png
+2025-07-23 14:26:04.661 - Task completed. File name: Discord_Mlopnk3T0K.png, Duration: 106 ms
+2025-07-23 14:26:22.717 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 14:26:22.717 - Executing: Capture region
+2025-07-23 14:26:25.424 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 14:26:25.430 - Task status: Preparing
+2025-07-23 14:26:25.479 - Image copied to clipboard.
+2025-07-23 14:26:25.515 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_61Jh5d3Zi2.png
+2025-07-23 14:26:25.529 - Task completed. File name: Discord_61Jh5d3Zi2.png, Duration: 99 ms
+2025-07-23 15:37:22.121 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 15:37:22.121 - Executing: Capture region
+2025-07-23 15:37:24.523 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 15:37:24.545 - Task status: Preparing
+2025-07-23 15:37:24.554 - Image copied to clipboard.
+2025-07-23 15:37:24.559 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_vBLAQEkW0V.png
+2025-07-23 15:37:24.564 - Task completed. File name: explorer_vBLAQEkW0V.png, Duration: 20 ms
+2025-07-23 15:38:00.282 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 15:38:00.282 - Executing: Capture region
+2025-07-23 15:38:03.696 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 15:38:03.702 - Task status: Preparing
+2025-07-23 15:38:03.710 - Image copied to clipboard.
+2025-07-23 15:38:03.715 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_8xJU1df3Cx.png
+2025-07-23 15:38:03.720 - Task completed. File name: explorer_8xJU1df3Cx.png, Duration: 18 ms
+2025-07-23 21:05:04.174 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 21:05:04.175 - Executing: Capture region
+2025-07-23 21:05:09.757 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 21:05:09.768 - Task status: Preparing
+2025-07-23 21:05:09.774 - Image copied to clipboard.
+2025-07-23 21:05:09.779 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\WinRAR_5gyFajWE5i.png
+2025-07-23 21:05:09.782 - Task completed. File name: WinRAR_5gyFajWE5i.png, Duration: 14 ms
+2025-07-23 21:05:28.751 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 21:05:28.751 - Executing: Capture region
+2025-07-23 21:05:30.987 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 21:05:30.997 - Task status: Preparing
+2025-07-23 21:05:31.006 - Image copied to clipboard.
+2025-07-23 21:05:31.014 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_JHqVyLly4P.png
+2025-07-23 21:05:31.021 - Task completed. File name: steamwebhelper_JHqVyLly4P.png, Duration: 25 ms
+2025-07-23 21:38:25.937 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 21:38:25.937 - Executing: Capture region
+2025-07-23 21:38:28.368 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 21:38:28.381 - Task status: Preparing
+2025-07-23 21:38:28.394 - Image copied to clipboard.
+2025-07-23 21:38:28.402 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_oMsXPOvWE4.png
+2025-07-23 21:38:28.405 - Task completed. File name: Discord_oMsXPOvWE4.png, Duration: 26 ms
+2025-07-23 21:59:23.452 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 21:59:23.452 - Executing: Capture region
+2025-07-23 21:59:26.998 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 21:59:27.002 - Task status: Preparing
+2025-07-23 21:59:27.009 - Image copied to clipboard.
+2025-07-23 21:59:27.014 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_4tm2nEnIAv.png
+2025-07-23 21:59:27.017 - Task completed. File name: Discord_4tm2nEnIAv.png, Duration: 14 ms
+2025-07-23 22:09:24.776 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:09:24.776 - Executing: Capture region
+2025-07-23 22:09:41.446 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:09:41.446 - Executing: Capture region
+2025-07-23 22:09:44.344 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 22:09:44.352 - Task status: Preparing
+2025-07-23 22:09:44.378 - Image copied to clipboard.
+2025-07-23 22:09:44.394 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_YXRemxBwPY.png
+2025-07-23 22:09:44.399 - Task completed. File name: Discord_YXRemxBwPY.png, Duration: 48 ms
+2025-07-23 22:19:24.280 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:19:24.280 - Executing: Capture region
+2025-07-23 22:19:25.694 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 22:19:25.700 - Task status: Preparing
+2025-07-23 22:19:25.731 - Image copied to clipboard.
+2025-07-23 22:19:25.765 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_e38Pt4MXNT.png
+2025-07-23 22:19:25.773 - Task completed. File name: Discord_e38Pt4MXNT.png, Duration: 73 ms
+2025-07-23 22:36:24.126 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:36:24.126 - Executing: Capture region
+2025-07-23 22:36:26.587 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 22:36:26.592 - Task status: Preparing
+2025-07-23 22:36:26.716 - Image copied to clipboard.
+2025-07-23 22:36:26.830 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_GTuwQ8AwR3.jpg
+2025-07-23 22:36:26.841 - Task completed. File name: Discord_GTuwQ8AwR3.jpg, Duration: 249 ms
+2025-07-23 22:39:12.784 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:39:12.784 - Executing: Capture region
+2025-07-23 22:39:13.874 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 22:39:13.885 - Task status: Preparing
+2025-07-23 22:39:13.931 - Image copied to clipboard.
+2025-07-23 22:39:13.962 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_rWGMr3LzyO.png
+2025-07-23 22:39:13.971 - Task completed. File name: Discord_rWGMr3LzyO.png, Duration: 88 ms
+2025-07-23 22:39:29.199 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-23 22:39:29.199 - Executing: Capture region
+2025-07-23 22:39:31.819 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-23 22:39:31.823 - Task status: Preparing
+2025-07-23 22:39:31.923 - Image copied to clipboard.
+2025-07-23 22:39:31.998 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_laOL27u9sP.png
+2025-07-23 22:39:32.011 - Task completed. File name: Discord_laOL27u9sP.png, Duration: 187 ms
+2025-07-24 01:15:35.522 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 01:15:35.522 - Executing: Capture region
+2025-07-24 01:15:39.279 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 01:15:39.291 - Task status: Preparing
+2025-07-24 01:15:39.307 - Image copied to clipboard.
+2025-07-24 01:15:39.319 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Gw2-64_2OkHiy23PR.png
+2025-07-24 01:15:39.323 - Task completed. File name: Gw2-64_2OkHiy23PR.png, Duration: 35 ms
+2025-07-24 19:20:05.245 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:20:05.246 - Executing: Capture region
+2025-07-24 19:20:07.739 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:20:07.750 - Task status: Preparing
+2025-07-24 19:20:07.874 - Image copied to clipboard.
+2025-07-24 19:20:07.942 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\S9ZAubf37N.png
+2025-07-24 19:20:07.973 - Task completed. File name: S9ZAubf37N.png, Duration: 223 ms
+2025-07-24 19:20:09.081 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:20:09.081 - Executing: Capture region
+2025-07-24 19:20:13.215 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:20:13.220 - Task status: Preparing
+2025-07-24 19:20:13.248 - Image copied to clipboard.
+2025-07-24 19:20:13.268 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\UltiMaker-Cura_n221I7XAfc.png
+2025-07-24 19:20:13.277 - Task completed. File name: UltiMaker-Cura_n221I7XAfc.png, Duration: 57 ms
+2025-07-24 19:20:15.532 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:20:15.532 - Executing: Capture region
+2025-07-24 19:20:17.726 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:20:17.730 - Task status: Preparing
+2025-07-24 19:20:17.735 - Image copied to clipboard.
+2025-07-24 19:20:17.737 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\b0uOpLk4Sc.png
+2025-07-24 19:20:17.741 - Task completed. File name: b0uOpLk4Sc.png, Duration: 10 ms
+2025-07-24 19:20:19.407 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:20:19.407 - Executing: Capture region
+2025-07-24 19:20:21.688 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:20:21.692 - Task status: Preparing
+2025-07-24 19:20:21.697 - Image copied to clipboard.
+2025-07-24 19:20:21.699 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\ApplicationFrameHost_TDYrL17VlI.png
+2025-07-24 19:20:21.702 - Task completed. File name: ApplicationFrameHost_TDYrL17VlI.png, Duration: 10 ms
+2025-07-24 19:20:29.282 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:20:29.282 - Executing: Capture region
+2025-07-24 19:20:31.277 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:20:31.281 - Task status: Preparing
+2025-07-24 19:20:31.297 - Image copied to clipboard.
+2025-07-24 19:20:31.306 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\WinRAR_QMzK7Xucge.png
+2025-07-24 19:20:31.311 - Task completed. File name: WinRAR_QMzK7Xucge.png, Duration: 30 ms
+2025-07-24 19:25:56.137 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:25:56.137 - Executing: Capture region
+2025-07-24 19:26:04.423 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:26:04.423 - Executing: Capture region
+2025-07-24 19:26:10.787 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:26:10.791 - Task status: Preparing
+2025-07-24 19:26:10.820 - Image copied to clipboard.
+2025-07-24 19:26:10.842 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\UltiMaker-Cura_eYZc58T8so.png
+2025-07-24 19:26:10.853 - Task completed. File name: UltiMaker-Cura_eYZc58T8so.png, Duration: 62 ms
+2025-07-24 19:26:13.016 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:26:13.016 - Executing: Capture region
+2025-07-24 19:26:14.846 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:26:14.851 - Task status: Preparing
+2025-07-24 19:26:14.857 - Image copied to clipboard.
+2025-07-24 19:26:14.859 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\lCkMgrkmug.png
+2025-07-24 19:26:14.862 - Task completed. File name: lCkMgrkmug.png, Duration: 12 ms
+2025-07-24 19:26:16.900 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 19:26:16.900 - Executing: Capture region
+2025-07-24 19:26:17.533 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 19:26:17.536 - Task status: Preparing
+2025-07-24 19:26:17.547 - Image copied to clipboard.
+2025-07-24 19:26:17.551 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\ApplicationFrameHost_T6sT6uO6Db.png
+2025-07-24 19:26:17.554 - Task completed. File name: ApplicationFrameHost_T6sT6uO6Db.png, Duration: 18 ms
+2025-07-24 20:30:35.771 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 20:30:35.772 - Executing: Capture region
+2025-07-24 20:30:37.403 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 20:30:37.410 - Task status: Preparing
+2025-07-24 20:30:37.422 - Image copied to clipboard.
+2025-07-24 20:30:37.429 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_AuUmcRnfL9.png
+2025-07-24 20:30:37.432 - Task completed. File name: opera_AuUmcRnfL9.png, Duration: 23 ms
+2025-07-24 20:49:29.862 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 20:49:29.862 - Executing: Capture region
+2025-07-24 20:49:33.100 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 20:49:33.107 - Task status: Preparing
+2025-07-24 20:49:33.113 - Image copied to clipboard.
+2025-07-24 20:49:33.117 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_DB3SGpvJK5.png
+2025-07-24 20:49:33.118 - Task completed. File name: Discord_DB3SGpvJK5.png, Duration: 12 ms
+2025-07-24 20:53:31.763 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 20:53:31.763 - Executing: Capture region
+2025-07-24 20:53:33.829 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 20:53:33.834 - Task status: Preparing
+2025-07-24 20:53:33.839 - Image copied to clipboard.
+2025-07-24 20:53:33.841 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_FPhiy0f8QL.png
+2025-07-24 20:53:33.843 - Task completed. File name: opera_FPhiy0f8QL.png, Duration: 10 ms
+2025-07-24 23:34:43.045 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 23:34:43.045 - Executing: Capture region
+2025-07-24 23:34:44.891 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 23:34:44.898 - Task status: Preparing
+2025-07-24 23:34:44.925 - Image copied to clipboard.
+2025-07-24 23:34:44.943 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\ProjectBakery-Win64-Shipping_oyZftUiBZJ.png
+2025-07-24 23:34:44.947 - Task completed. File name: ProjectBakery-Win64-Shipping_oyZftUiBZJ.png, Duration: 49 ms
+2025-07-24 23:35:29.778 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-24 23:35:29.778 - Executing: Capture region
+2025-07-24 23:35:34.983 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-24 23:35:34.988 - Task status: Preparing
+2025-07-24 23:35:35.009 - Image copied to clipboard.
+2025-07-24 23:35:35.030 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\ProjectBakery-Win64-Shipping_ZHK5EUeK7y.png
+2025-07-24 23:35:35.034 - Task completed. File name: ProjectBakery-Win64-Shipping_ZHK5EUeK7y.png, Duration: 45 ms
+2025-07-25 15:22:59.916 - ShareX starting.
+2025-07-25 15:22:59.916 - Version: 17.1
+2025-07-25 15:22:59.916 - Build: Release
+2025-07-25 15:22:59.917 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2025-07-25 15:22:59.917 - Personal path: C:\Users\deves\Documents\ShareX
+2025-07-25 15:22:59.917 - Operating system: Windows 10 Home (64-bit)
+2025-07-25 15:22:59.917 - Running as elevated process: False
+2025-07-25 15:22:59.925 - Flags: SilentRun
+2025-07-25 15:22:59.949 - ApplicationConfig load started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-25 15:23:03.734 - ApplicationConfig load finished: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-25 15:23:03.740 - UploadersConfig load started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-25 15:23:03.752 - Language changed to: English (United States)
+2025-07-25 15:23:03.753 - MainForm init started.
+2025-07-25 15:23:03.876 - UploadersConfig load finished: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-25 15:23:03.877 - HotkeysConfig load started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-25 15:23:03.919 - HotkeysConfig load finished: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-25 15:23:04.519 - MainForm init finished.
+2025-07-25 15:23:05.536 - Hotkey registered: Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 15:23:05.536 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-25 15:23:05.536 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-07-25 15:23:05.537 - Hotkey registered: Hotkey: Ctrl + Shift + Alt + S, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-07-25 15:23:05.537 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-25 15:23:05.538 - HotkeyManager started.
+2025-07-25 15:23:05.538 - WatchFolderManager started.
+2025-07-25 15:23:05.605 - Startup time: 5716 ms
+2025-07-25 15:23:05.610 - CommandLine: -silent
+2025-07-25 16:41:52.564 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 16:41:52.585 - Executing: Capture region
+2025-07-25 16:41:55.920 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-25 16:41:56.095 - Task status: Preparing
+2025-07-25 16:41:56.550 - Image copied to clipboard.
+2025-07-25 16:41:57.012 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_HNoUHQrYwM.jpg
+2025-07-25 16:41:57.074 - Task completed. File name: Discord_HNoUHQrYwM.jpg, Duration: 973 ms
+2025-07-25 20:12:08.348 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 20:12:08.348 - Executing: Capture region
+2025-07-25 20:12:11.593 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-25 20:12:11.597 - Task status: Preparing
+2025-07-25 20:12:11.611 - Image copied to clipboard.
+2025-07-25 20:12:11.621 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\rpgclient_OyaKt1mRiU.png
+2025-07-25 20:12:11.624 - Task completed. File name: rpgclient_OyaKt1mRiU.png, Duration: 26 ms
+2025-07-25 22:33:56.469 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 22:33:56.470 - Executing: Capture region
+2025-07-25 22:33:59.961 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-25 22:33:59.983 - Task status: Preparing
+2025-07-25 22:33:59.989 - Image copied to clipboard.
+2025-07-25 22:34:00.000 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_5qw8G24j7Y.png
+2025-07-25 22:34:00.002 - Task completed. File name: opera_5qw8G24j7Y.png, Duration: 20 ms
+2025-07-25 22:34:25.497 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 22:34:25.498 - Executing: Capture region
+2025-07-25 22:34:27.635 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-25 22:34:27.643 - Task status: Preparing
+2025-07-25 22:34:27.653 - Image copied to clipboard.
+2025-07-25 22:34:27.657 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_vNuNDgD0lD.png
+2025-07-25 22:34:27.668 - Task completed. File name: opera_vNuNDgD0lD.png, Duration: 28 ms
+2025-07-25 22:42:19.380 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-25 22:42:19.381 - Executing: Capture region
+2025-07-25 22:42:22.294 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-25 22:42:22.303 - Task status: Preparing
+2025-07-25 22:42:22.335 - Image copied to clipboard.
+2025-07-25 22:42:22.354 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Discord_MfkuIRvbBx.png
+2025-07-25 22:42:22.363 - Task completed. File name: Discord_MfkuIRvbBx.png, Duration: 61 ms
+2025-07-26 00:39:28.001 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-26 00:39:28.001 - Executing: Capture entire screen
+2025-07-26 00:39:28.149 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-26 00:39:28.162 - Task status: Preparing
+2025-07-26 00:39:28.583 - Image copied to clipboard.
+2025-07-26 00:39:29.095 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Jr8cPt2cOT.jpg
+2025-07-26 00:39:29.155 - Task completed. File name: Jr8cPt2cOT.jpg, Duration: 994 ms
+2025-07-26 01:13:48.862 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-26 01:13:48.862 - Executing: Capture region
+2025-07-26 01:13:51.018 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-26 01:13:51.028 - Task status: Preparing
+2025-07-26 01:13:51.039 - Image copied to clipboard.
+2025-07-26 01:13:51.044 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_G4f8KRZTYg.png
+2025-07-26 01:13:51.052 - Task completed. File name: opera_G4f8KRZTYg.png, Duration: 24 ms
+2025-07-26 01:13:58.642 - Executing: Open main window
+2025-07-26 03:16:54.964 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-26 03:16:54.964 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-26 03:16:54.966 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-26 03:16:55.004 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-26 03:16:55.041 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-26 03:16:55.129 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-26 17:39:57.265 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-26 17:39:57.266 - Executing: Capture region
+2025-07-26 17:40:01.678 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-26 17:40:01.714 - Task status: Preparing
+2025-07-26 17:40:01.742 - Image copied to clipboard.
+2025-07-26 17:40:01.761 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_rJ37cC5RvN.png
+2025-07-26 17:40:01.765 - Task completed. File name: opera_rJ37cC5RvN.png, Duration: 51 ms
+2025-07-26 18:50:40.328 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-26 18:50:40.328 - Executing: Capture region
+2025-07-26 18:50:41.917 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-26 18:50:41.935 - Task status: Preparing
+2025-07-26 18:50:41.942 - Image copied to clipboard.
+2025-07-26 18:50:41.949 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_d5hCVnRMsB.png
+2025-07-26 18:50:41.951 - Task completed. File name: opera_d5hCVnRMsB.png, Duration: 16 ms
+2025-07-26 18:50:42.954 - URL opened: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_d5hCVnRMsB.png
+2025-07-26 23:07:15.929 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-26 23:07:15.929 - Executing: Capture entire screen
+2025-07-26 23:07:16.000 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-26 23:07:16.017 - Task status: Preparing
+2025-07-26 23:07:16.282 - Image copied to clipboard.
+2025-07-26 23:07:16.591 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\sHmRSATm3M.jpg
+2025-07-26 23:07:16.625 - Task completed. File name: sHmRSATm3M.jpg, Duration: 607 ms
+2025-07-27 01:29:35.665 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 01:29:35.665 - Executing: Capture region
+2025-07-27 01:29:37.244 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 01:29:37.259 - Task status: Preparing
+2025-07-27 01:29:37.269 - Image copied to clipboard.
+2025-07-27 01:29:37.277 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\MonsterHunterWorld_lVwTQdzjnD.png
+2025-07-27 01:29:37.280 - Task completed. File name: MonsterHunterWorld_lVwTQdzjnD.png, Duration: 21 ms
+2025-07-27 01:51:37.792 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-27 01:51:37.792 - Executing: Capture entire screen
+2025-07-27 01:51:37.855 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 01:51:37.871 - Task status: Preparing
+2025-07-27 01:51:38.111 - Image copied to clipboard.
+2025-07-27 01:51:38.391 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\g0Rj7mKdM3.jpg
+2025-07-27 01:51:38.425 - Task completed. File name: g0Rj7mKdM3.jpg, Duration: 553 ms
+2025-07-27 01:51:46.065 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-27 01:51:46.065 - Executing: Capture entire screen
+2025-07-27 01:51:46.122 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 01:51:46.141 - Task status: Preparing
+2025-07-27 01:51:46.429 - Image copied to clipboard.
+2025-07-27 01:51:46.731 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\3zHHKjFA9p.jpg
+2025-07-27 01:51:46.765 - Task completed. File name: 3zHHKjFA9p.jpg, Duration: 625 ms
+2025-07-27 01:51:50.269 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-27 01:51:50.269 - Executing: Capture entire screen
+2025-07-27 01:51:50.334 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 01:51:50.354 - Task status: Preparing
+2025-07-27 01:51:50.614 - Image copied to clipboard.
+2025-07-27 01:51:50.921 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\P3SK5nyRNM.jpg
+2025-07-27 01:51:50.954 - Task completed. File name: P3SK5nyRNM.jpg, Duration: 600 ms
+2025-07-27 01:52:23.332 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-27 01:52:23.333 - Executing: Capture entire screen
+2025-07-27 01:52:23.392 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 01:52:23.410 - Task status: Preparing
+2025-07-27 01:52:23.720 - Image copied to clipboard.
+2025-07-27 01:52:24.061 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\RsPVuH25j9.jpg
+2025-07-27 01:52:24.096 - Task completed. File name: RsPVuH25j9.jpg, Duration: 686 ms
+2025-07-27 18:07:16.798 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 18:07:16.798 - Executing: Capture region
+2025-07-27 18:07:18.490 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 18:07:18.504 - Task status: Preparing
+2025-07-27 18:07:18.509 - Image copied to clipboard.
+2025-07-27 18:07:18.514 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\steamwebhelper_FgbXOwBSu1.png
+2025-07-27 18:07:18.515 - Task completed. File name: steamwebhelper_FgbXOwBSu1.png, Duration: 11 ms
+2025-07-27 18:21:47.640 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 18:21:47.640 - Executing: Capture region
+2025-07-27 18:21:49.731 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 18:21:49.746 - Task status: Preparing
+2025-07-27 18:21:49.755 - Image copied to clipboard.
+2025-07-27 18:21:49.761 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_EnoJ6B61ya.png
+2025-07-27 18:21:49.765 - Task completed. File name: opera_EnoJ6B61ya.png, Duration: 19 ms
+2025-07-27 18:22:07.866 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 18:22:07.867 - Executing: Capture region
+2025-07-27 18:22:10.590 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-27 18:22:10.607 - Task status: Preparing
+2025-07-27 18:22:10.614 - Image copied to clipboard.
+2025-07-27 18:22:10.618 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_bQY0LDJkwp.png
+2025-07-27 18:22:10.623 - Task completed. File name: opera_bQY0LDJkwp.png, Duration: 16 ms
+2025-07-27 22:27:35.092 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 22:27:35.092 - Executing: Capture region
+2025-07-27 22:27:53.830 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-27 22:27:53.830 - Executing: Capture region
+2025-07-29 15:21:29.059 - ShareX closing.
+2025-07-29 15:21:29.067 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-29 15:21:29.262 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-29 15:21:29.262 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-29 15:21:29.355 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-29 15:21:29.355 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-29 15:21:29.376 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-29 15:21:29.376 - ShareX closed.
+2025-07-29 15:23:10.857 - ShareX starting.
+2025-07-29 15:23:10.858 - Version: 17.1
+2025-07-29 15:23:10.858 - Build: Release
+2025-07-29 15:23:10.858 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2025-07-29 15:23:10.858 - Personal path: C:\Users\deves\Documents\ShareX
+2025-07-29 15:23:10.858 - Operating system: Windows 10 Home (64-bit)
+2025-07-29 15:23:10.859 - Running as elevated process: False
+2025-07-29 15:23:10.868 - Flags: SilentRun
+2025-07-29 15:23:10.892 - ApplicationConfig load started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-29 15:23:11.477 - ApplicationConfig load finished: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-07-29 15:23:11.482 - UploadersConfig load started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-29 15:23:11.490 - Language changed to: English (United States)
+2025-07-29 15:23:11.491 - MainForm init started.
+2025-07-29 15:23:11.614 - UploadersConfig load finished: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-07-29 15:23:11.616 - HotkeysConfig load started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-29 15:23:11.649 - HotkeysConfig load finished: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-07-29 15:23:11.999 - MainForm init finished.
+2025-07-29 15:23:12.139 - Hotkey registered: Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 15:23:12.139 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-07-29 15:23:12.139 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-07-29 15:23:12.139 - Hotkey registered: Hotkey: Ctrl + Shift + Alt + S, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-07-29 15:23:12.139 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-07-29 15:23:12.148 - HotkeyManager started.
+2025-07-29 15:23:12.149 - WatchFolderManager started.
+2025-07-29 15:23:12.160 - Startup time: 1334 ms
+2025-07-29 15:23:12.164 - CommandLine: -silent
+2025-07-29 15:37:16.616 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 15:37:16.622 - Executing: Capture region
+2025-07-29 15:37:18.795 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 15:37:18.795 - Executing: Capture region
+2025-07-29 15:37:20.963 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 15:37:21.029 - Task status: Preparing
+2025-07-29 15:37:21.046 - Image copied to clipboard.
+2025-07-29 15:37:21.062 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_4prTlX9tIi.png
+2025-07-29 15:37:21.073 - Task completed. File name: opera_4prTlX9tIi.png, Duration: 41 ms
+2025-07-29 20:49:49.315 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 20:49:49.315 - Executing: Capture region
+2025-07-29 20:49:52.084 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 20:49:52.090 - Task status: Preparing
+2025-07-29 20:49:52.147 - Image copied to clipboard.
+2025-07-29 20:49:52.193 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_VvZC1XA882.png
+2025-07-29 20:49:52.204 - Task completed. File name: opera_VvZC1XA882.png, Duration: 114 ms
+2025-07-29 20:50:18.722 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 20:50:18.722 - Executing: Capture region
+2025-07-29 20:50:23.222 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 20:50:23.223 - Executing: Capture region
+2025-07-29 20:50:29.977 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 20:50:29.981 - Task status: Preparing
+2025-07-29 20:50:30.014 - Image copied to clipboard.
+2025-07-29 20:50:30.040 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_G7Px2jEQxW.png
+2025-07-29 20:50:30.045 - Task completed. File name: opera_G7Px2jEQxW.png, Duration: 65 ms
+2025-07-29 20:56:41.894 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 20:56:41.894 - Executing: Capture region
+2025-07-29 20:56:43.344 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 20:56:43.350 - Task status: Preparing
+2025-07-29 20:56:43.366 - Image copied to clipboard.
+2025-07-29 20:56:43.376 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Phasmophobia_i2LS7o7lSW.png
+2025-07-29 20:56:43.379 - Task completed. File name: Phasmophobia_i2LS7o7lSW.png, Duration: 29 ms
+2025-07-29 21:04:55.016 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 21:04:55.016 - Executing: Capture region
+2025-07-29 21:04:56.958 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 21:04:56.966 - Task status: Preparing
+2025-07-29 21:04:56.985 - Image copied to clipboard.
+2025-07-29 21:04:57.007 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\Phasmophobia_vtqtoqzT6Y.png
+2025-07-29 21:04:57.011 - Task completed. File name: Phasmophobia_vtqtoqzT6Y.png, Duration: 45 ms
+2025-07-29 22:39:17.658 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 22:39:17.658 - Executing: Capture region
+2025-07-29 22:39:19.162 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 22:39:19.167 - Task status: Preparing
+2025-07-29 22:39:19.176 - Image copied to clipboard.
+2025-07-29 22:39:19.184 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\5lr7iGMjzx.png
+2025-07-29 22:39:19.187 - Task completed. File name: 5lr7iGMjzx.png, Duration: 21 ms
+2025-07-29 23:58:11.272 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 23:58:11.273 - Executing: Capture region
+2025-07-29 23:58:14.981 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-29 23:58:14.981 - Executing: Capture region
+2025-07-29 23:58:23.228 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-29 23:58:23.234 - Task status: Preparing
+2025-07-29 23:58:23.266 - Image copied to clipboard.
+2025-07-29 23:58:23.288 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\VRChat_YYhXEevjC0.png
+2025-07-29 23:58:23.300 - Task completed. File name: VRChat_YYhXEevjC0.png, Duration: 66 ms
+2025-07-30 20:34:24.689 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 20:34:24.689 - Executing: Capture region
+2025-07-30 20:34:27.205 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 20:34:27.238 - Task status: Preparing
+2025-07-30 20:34:27.244 - Image copied to clipboard.
+2025-07-30 20:34:27.248 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TreeSizeFree_okFaHcJ1Dc.png
+2025-07-30 20:34:27.251 - Task completed. File name: TreeSizeFree_okFaHcJ1Dc.png, Duration: 13 ms
+2025-07-30 21:02:58.406 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 21:02:58.406 - Executing: Capture region
+2025-07-30 21:02:59.989 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 21:02:59.992 - Task status: Preparing
+2025-07-30 21:03:00.025 - Image copied to clipboard.
+2025-07-30 21:03:00.061 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_GYF2QJVJwW.png
+2025-07-30 21:03:00.066 - Task completed. File name: opera_GYF2QJVJwW.png, Duration: 74 ms
+2025-07-30 23:00:03.905 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 23:00:03.905 - Executing: Capture region
+2025-07-30 23:00:05.833 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 23:00:05.839 - Task status: Preparing
+2025-07-30 23:00:05.847 - Image copied to clipboard.
+2025-07-30 23:00:05.861 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TS4_x64_cnANBBrO7i.png
+2025-07-30 23:00:05.864 - Task completed. File name: TS4_x64_cnANBBrO7i.png, Duration: 26 ms
+2025-07-30 23:04:34.988 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 23:04:34.988 - Executing: Capture region
+2025-07-30 23:04:36.433 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 23:04:36.438 - Task status: Preparing
+2025-07-30 23:04:36.446 - Image copied to clipboard.
+2025-07-30 23:04:36.451 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TS4_x64_bYQxC95CQo.png
+2025-07-30 23:04:36.454 - Task completed. File name: TS4_x64_bYQxC95CQo.png, Duration: 16 ms
+2025-07-30 23:04:56.640 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 23:04:56.640 - Executing: Capture region
+2025-07-30 23:05:01.750 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 23:05:01.755 - Task status: Preparing
+2025-07-30 23:05:01.773 - Image copied to clipboard.
+2025-07-30 23:05:01.783 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TS4_x64_bd9DjtAi4q.png
+2025-07-30 23:05:01.788 - Task completed. File name: TS4_x64_bd9DjtAi4q.png, Duration: 33 ms
+2025-07-30 23:05:04.585 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-30 23:05:04.585 - Executing: Capture region
+2025-07-30 23:05:06.601 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-30 23:05:06.605 - Task status: Preparing
+2025-07-30 23:05:06.612 - Image copied to clipboard.
+2025-07-30 23:05:06.614 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\TS4_x64_f1WWfLUQ4o.png
+2025-07-30 23:05:06.617 - Task completed. File name: TS4_x64_f1WWfLUQ4o.png, Duration: 12 ms
+2025-07-31 14:10:34.651 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 14:10:34.652 - Executing: Capture region
+2025-07-31 14:10:43.734 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 14:10:43.734 - Executing: Capture region
+2025-07-31 14:10:46.631 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-31 14:10:46.635 - Task status: Preparing
+2025-07-31 14:10:46.641 - Image copied to clipboard.
+2025-07-31 14:10:46.645 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_y8R1VDL2WH.png
+2025-07-31 14:10:46.646 - Task completed. File name: explorer_y8R1VDL2WH.png, Duration: 11 ms
+2025-07-31 17:19:45.058 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 17:19:45.058 - Executing: Capture region
+2025-07-31 17:19:50.819 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-31 17:19:50.826 - Task status: Preparing
+2025-07-31 17:19:50.834 - Image copied to clipboard.
+2025-07-31 17:19:50.839 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_XTGbwcm754.png
+2025-07-31 17:19:50.842 - Task completed. File name: opera_XTGbwcm754.png, Duration: 16 ms
+2025-07-31 18:12:34.851 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 18:12:34.851 - Executing: Capture region
+2025-07-31 18:24:44.569 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 18:24:44.569 - Executing: Capture region
+2025-07-31 21:30:43.373 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 21:30:43.373 - Executing: Capture region
+2025-07-31 21:30:45.973 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-31 21:30:45.989 - Task status: Preparing
+2025-07-31 21:30:45.998 - Image copied to clipboard.
+2025-07-31 21:30:46.003 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\explorer_4nEVZHSb1S.png
+2025-07-31 21:30:46.006 - Task completed. File name: explorer_4nEVZHSb1S.png, Duration: 21 ms
+2025-07-31 22:14:25.125 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 22:14:25.125 - Executing: Capture region
+2025-07-31 22:14:27.174 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 22:14:27.174 - Executing: Capture region
+2025-07-31 22:14:28.383 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-31 22:14:28.396 - Task status: Preparing
+2025-07-31 22:14:28.409 - Image copied to clipboard.
+2025-07-31 22:14:28.417 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\opera_Maz6YRwoBI.png
+2025-07-31 22:14:28.420 - Task completed. File name: opera_Maz6YRwoBI.png, Duration: 25 ms
+2025-07-31 22:41:33.201 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-07-31 22:41:33.201 - Executing: Capture region
+2025-07-31 22:41:34.904 - Task in queue. Job: Job, Type: Image, Host: 
+2025-07-31 22:41:34.911 - Task status: Preparing
+2025-07-31 22:41:35.074 - Image copied to clipboard.
+2025-07-31 22:41:35.287 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-07\uI7NmboQ1Q.jpg
+2025-07-31 22:41:35.308 - Task completed. File name: uI7NmboQ1Q.jpg, Duration: 397 ms
+2025-08-01 00:10:05.470 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-01 00:10:05.471 - Executing: Capture region
+2025-08-01 00:10:07.521 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-01 00:10:07.534 - Task status: Preparing
+2025-08-01 00:10:07.557 - Image copied to clipboard.
+2025-08-01 00:10:07.576 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_G3AStyf9af.png
+2025-08-01 00:10:07.584 - Task completed. File name: opera_G3AStyf9af.png, Duration: 51 ms
+2025-08-01 17:11:25.836 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-01 17:11:25.837 - Executing: Capture region
+2025-08-01 17:11:29.770 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-01 17:11:29.779 - Task status: Preparing
+2025-08-01 17:11:29.784 - Image copied to clipboard.
+2025-08-01 17:11:29.789 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\SystemInformer_FVN2Q8M1k4.png
+2025-08-01 17:11:29.790 - Task completed. File name: SystemInformer_FVN2Q8M1k4.png, Duration: 13 ms
+2025-08-01 21:48:13.645 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-01 21:48:13.645 - Executing: Capture region
+2025-08-01 21:48:15.331 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-01 21:48:15.357 - Task status: Preparing
+2025-08-01 21:48:15.364 - Image copied to clipboard.
+2025-08-01 21:48:15.371 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\notepad++_mZ72nP7Ov5.png
+2025-08-01 21:48:15.373 - Task completed. File name: notepad++_mZ72nP7Ov5.png, Duration: 16 ms
+2025-08-02 01:52:59.863 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-02 01:52:59.863 - Executing: Capture region
+2025-08-02 01:53:02.502 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-02 01:53:02.513 - Task status: Preparing
+2025-08-02 01:53:02.569 - Image copied to clipboard.
+2025-08-02 01:53:02.606 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Paladins_fEluLgsyUW.png
+2025-08-02 01:53:02.614 - Task completed. File name: Paladins_fEluLgsyUW.png, Duration: 101 ms
+2025-08-03 06:24:04.134 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-03 06:24:04.135 - Executing: Capture region
+2025-08-03 06:24:06.939 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-03 06:24:06.956 - Task status: Preparing
+2025-08-03 06:24:06.977 - Image copied to clipboard.
+2025-08-03 06:24:07.004 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_KvsnVuRjSA.png
+2025-08-03 06:24:07.008 - Task completed. File name: opera_KvsnVuRjSA.png, Duration: 51 ms
+2025-08-03 06:34:51.780 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-03 06:34:51.780 - Executing: Capture region
+2025-08-03 06:34:55.936 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-03 06:34:55.940 - Task status: Preparing
+2025-08-03 06:34:55.948 - Image copied to clipboard.
+2025-08-03 06:34:55.952 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_4DNDe7Uvq1.png
+2025-08-03 06:34:55.956 - Task completed. File name: opera_4DNDe7Uvq1.png, Duration: 16 ms
+2025-08-03 20:16:06.136 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-03 20:16:06.136 - Executing: Capture region
+2025-08-03 20:16:08.053 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-03 20:16:08.059 - Task status: Preparing
+2025-08-03 20:16:08.077 - Image copied to clipboard.
+2025-08-03 20:16:08.088 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_sAL65Whi66.png
+2025-08-03 20:16:08.095 - Task completed. File name: opera_sAL65Whi66.png, Duration: 36 ms
+2025-08-03 20:16:12.128 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-03 20:16:12.128 - Executing: Capture region
+2025-08-03 20:16:14.366 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-03 20:16:14.388 - Task status: Preparing
+2025-08-03 20:16:14.395 - Image copied to clipboard.
+2025-08-03 20:16:14.398 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_b7gDDfzbYf.png
+2025-08-03 20:16:14.401 - Task completed. File name: opera_b7gDDfzbYf.png, Duration: 13 ms
+2025-08-04 00:44:35.696 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-04 00:44:35.696 - Executing: Capture region
+2025-08-04 00:44:39.635 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-04 00:44:39.646 - Task status: Preparing
+2025-08-04 00:44:39.651 - Image copied to clipboard.
+2025-08-04 00:44:39.656 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\explorer_GgzhuI1Pff.png
+2025-08-04 00:44:39.658 - Task completed. File name: explorer_GgzhuI1Pff.png, Duration: 12 ms
+2025-08-05 23:46:50.250 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-05 23:46:50.250 - Executing: Capture region
+2025-08-05 23:46:52.164 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-05 23:46:52.202 - Task status: Preparing
+2025-08-05 23:46:52.249 - Image copied to clipboard.
+2025-08-05 23:46:52.287 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_ThOH82WulT.png
+2025-08-05 23:46:52.295 - Task completed. File name: opera_ThOH82WulT.png, Duration: 94 ms
+2025-08-05 23:55:08.306 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-05 23:55:08.306 - Executing: Capture region
+2025-08-05 23:55:10.014 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-05 23:55:10.018 - Task status: Preparing
+2025-08-05 23:55:10.025 - Image copied to clipboard.
+2025-08-05 23:55:10.029 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_6DQZrLGt3P.png
+2025-08-05 23:55:10.031 - Task completed. File name: opera_6DQZrLGt3P.png, Duration: 13 ms
+2025-08-06 00:56:13.374 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 00:56:13.374 - Executing: Capture region
+2025-08-06 00:56:15.501 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 00:56:15.506 - Task status: Preparing
+2025-08-06 00:56:15.525 - Image copied to clipboard.
+2025-08-06 00:56:15.543 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_EO3hkdOhEt.png
+2025-08-06 00:56:15.547 - Task completed. File name: Phasmophobia_EO3hkdOhEt.png, Duration: 41 ms
+2025-08-06 01:23:12.312 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:12.312 - Executing: Capture region
+2025-08-06 01:23:14.703 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 01:23:14.708 - Task status: Preparing
+2025-08-06 01:23:14.737 - Image copied to clipboard.
+2025-08-06 01:23:14.756 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_haKpuU4Hg6.png
+2025-08-06 01:23:14.763 - Task completed. File name: Phasmophobia_haKpuU4Hg6.png, Duration: 55 ms
+2025-08-06 01:23:15.968 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:15.968 - Executing: Capture region
+2025-08-06 01:23:18.384 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:18.384 - Executing: Capture region
+2025-08-06 01:23:20.837 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 01:23:20.844 - Task status: Preparing
+2025-08-06 01:23:20.871 - Image copied to clipboard.
+2025-08-06 01:23:20.889 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_5QS2glzHiM.png
+2025-08-06 01:23:20.895 - Task completed. File name: Phasmophobia_5QS2glzHiM.png, Duration: 51 ms
+2025-08-06 01:23:22.060 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:22.060 - Executing: Capture region
+2025-08-06 01:23:24.296 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 01:23:24.301 - Task status: Preparing
+2025-08-06 01:23:24.327 - Image copied to clipboard.
+2025-08-06 01:23:24.345 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_VEOhyQpG7D.png
+2025-08-06 01:23:24.352 - Task completed. File name: Phasmophobia_VEOhyQpG7D.png, Duration: 50 ms
+2025-08-06 01:23:24.602 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:24.602 - Executing: Capture region
+2025-08-06 01:23:25.008 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 01:23:25.012 - Task status: Preparing
+2025-08-06 01:23:25.120 - Image copied to clipboard.
+2025-08-06 01:23:25.372 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_EcaE3iCt44.jpg
+2025-08-06 01:23:25.394 - Task completed. File name: Phasmophobia_EcaE3iCt44.jpg, Duration: 382 ms
+2025-08-06 01:23:25.906 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 01:23:25.906 - Executing: Capture region
+2025-08-06 01:23:26.464 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 01:23:26.470 - Task status: Preparing
+2025-08-06 01:23:26.478 - Image copied to clipboard.
+2025-08-06 01:23:26.480 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_ZUYfqg8rwt.png
+2025-08-06 01:23:26.481 - Task completed. File name: Phasmophobia_ZUYfqg8rwt.png, Duration: 11 ms
+2025-08-06 06:51:12.953 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 06:51:12.954 - Executing: Capture region
+2025-08-06 06:51:14.815 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 06:51:14.873 - Task status: Preparing
+2025-08-06 06:51:15.001 - Image copied to clipboard.
+2025-08-06 06:51:15.019 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Discord_bsgQJRoPkP.png
+2025-08-06 06:51:15.023 - Task completed. File name: Discord_bsgQJRoPkP.png, Duration: 149 ms
+2025-08-06 06:51:35.936 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 06:51:35.936 - Executing: Capture region
+2025-08-06 06:51:37.588 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 06:51:37.594 - Task status: Preparing
+2025-08-06 06:51:37.615 - Image copied to clipboard.
+2025-08-06 06:51:37.621 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Discord_jfgGi3CqEJ.png
+2025-08-06 06:51:37.624 - Task completed. File name: Discord_jfgGi3CqEJ.png, Duration: 31 ms
+2025-08-06 18:40:57.329 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 18:40:57.330 - Executing: Capture region
+2025-08-06 18:41:00.446 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 18:41:00.466 - Task status: Preparing
+2025-08-06 18:41:00.476 - Image copied to clipboard.
+2025-08-06 18:41:00.483 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_rn9Hrb0zDF.png
+2025-08-06 18:41:00.487 - Task completed. File name: opera_rn9Hrb0zDF.png, Duration: 21 ms
+2025-08-06 18:44:52.584 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 18:44:52.584 - Executing: Capture region
+2025-08-06 18:44:56.967 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 18:44:56.971 - Task status: Preparing
+2025-08-06 18:44:56.982 - Image copied to clipboard.
+2025-08-06 18:44:56.989 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\chrome_2DR6vuqhGg.png
+2025-08-06 18:44:56.994 - Task completed. File name: chrome_2DR6vuqhGg.png, Duration: 23 ms
+2025-08-06 23:33:44.791 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-06 23:33:44.792 - Executing: Capture region
+2025-08-06 23:33:47.722 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-06 23:33:47.749 - Task status: Preparing
+2025-08-06 23:33:47.769 - Image copied to clipboard.
+2025-08-06 23:33:47.778 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\steamwebhelper_wsiUARDFYK.png
+2025-08-06 23:33:47.780 - Task completed. File name: steamwebhelper_wsiUARDFYK.png, Duration: 33 ms
+2025-08-07 01:09:44.514 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-07 01:09:44.515 - Executing: Capture region
+2025-08-07 01:09:46.397 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-07 01:09:46.407 - Task status: Preparing
+2025-08-07 01:09:46.651 - Image copied to clipboard.
+2025-08-07 01:09:46.776 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Paladins_jfeSkaAZoQ.png
+2025-08-07 01:09:46.797 - Task completed. File name: Paladins_jfeSkaAZoQ.png, Duration: 390 ms
+2025-08-07 02:32:10.539 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-07 02:32:10.540 - Executing: Capture region
+2025-08-07 02:32:13.789 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-07 02:32:13.796 - Task status: Preparing
+2025-08-07 02:32:13.805 - Image copied to clipboard.
+2025-08-07 02:32:13.810 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_OH2qK9h07G.png
+2025-08-07 02:32:13.815 - Task completed. File name: opera_OH2qK9h07G.png, Duration: 19 ms
+2025-08-07 02:38:18.750 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-07 02:38:18.750 - Executing: Capture region
+2025-08-07 02:38:26.945 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-07 02:38:26.945 - Executing: Capture region
+2025-08-07 02:38:30.141 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-07 02:38:30.145 - Task status: Preparing
+2025-08-07 02:38:30.157 - Image copied to clipboard.
+2025-08-07 02:38:30.164 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_x3c7MSLHMR.png
+2025-08-07 02:38:30.167 - Task completed. File name: opera_x3c7MSLHMR.png, Duration: 23 ms
+2025-08-07 02:38:31.548 - URL opened: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_x3c7MSLHMR.png
+2025-08-08 02:46:03.008 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-08 02:46:03.008 - Executing: Capture region
+2025-08-08 02:46:04.258 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-08 02:46:04.287 - Task status: Preparing
+2025-08-08 02:46:04.318 - Image copied to clipboard.
+2025-08-08 02:46:04.347 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_eVsQfpHs6I.png
+2025-08-08 02:46:04.354 - Task completed. File name: Phasmophobia_eVsQfpHs6I.png, Duration: 66 ms
+2025-08-08 03:25:32.428 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-08 03:25:32.428 - Executing: Capture region
+2025-08-08 03:25:36.440 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-08 03:25:36.446 - Task status: Preparing
+2025-08-08 03:25:36.453 - Image copied to clipboard.
+2025-08-08 03:25:36.459 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_jAgsV9aVZm.png
+2025-08-08 03:25:36.463 - Task completed. File name: opera_jAgsV9aVZm.png, Duration: 17 ms
+2025-08-08 03:26:01.603 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-08 03:26:01.604 - Executing: Capture region
+2025-08-08 03:26:03.960 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-08 03:26:03.981 - Task status: Preparing
+2025-08-08 03:26:03.986 - Image copied to clipboard.
+2025-08-08 03:26:03.988 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_ieDmyBBonx.png
+2025-08-08 03:26:03.989 - Task completed. File name: opera_ieDmyBBonx.png, Duration: 8 ms
+2025-08-08 03:29:16.797 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-08 03:29:16.797 - Executing: Capture region
+2025-08-08 03:29:23.274 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-08 03:29:23.279 - Task status: Preparing
+2025-08-08 03:29:23.288 - Image copied to clipboard.
+2025-08-08 03:29:23.293 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_k2BK36Ja8M.png
+2025-08-08 03:29:23.297 - Task completed. File name: opera_k2BK36Ja8M.png, Duration: 18 ms
+2025-08-08 03:29:24.649 - URL opened: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_k2BK36Ja8M.png
+2025-08-08 03:29:29.597 - Executing: Open main window
+2025-08-08 03:33:18.051 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-08 03:33:18.051 - Executing: Capture region
+2025-08-08 03:33:23.414 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-08 03:33:23.453 - Task status: Preparing
+2025-08-08 03:33:23.486 - Image copied to clipboard.
+2025-08-08 03:33:23.516 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Paladins_QJCfjAdtpC.png
+2025-08-08 03:33:23.534 - Task completed. File name: Paladins_QJCfjAdtpC.png, Duration: 81 ms
+2025-08-09 07:58:11.205 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-08-09 07:58:11.205 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-08-09 07:58:11.206 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-08-09 07:58:11.261 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-08-09 07:58:11.306 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-08-09 07:58:11.391 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-08-10 00:01:35.482 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-10 00:01:35.482 - Executing: Capture region
+2025-08-10 00:01:37.469 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-10 00:01:37.514 - Task status: Preparing
+2025-08-10 00:01:37.536 - Image copied to clipboard.
+2025-08-10 00:01:37.551 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_wa6k08XvDP.png
+2025-08-10 00:01:37.556 - Task completed. File name: opera_wa6k08XvDP.png, Duration: 42 ms
+2025-08-10 00:01:47.831 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-10 00:01:47.831 - Executing: Capture region
+2025-08-10 00:01:51.502 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-10 00:01:51.516 - Task status: Preparing
+2025-08-10 00:01:51.565 - Image copied to clipboard.
+2025-08-10 00:01:51.607 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_NnHCaGDIRr.png
+2025-08-10 00:01:51.616 - Task completed. File name: opera_NnHCaGDIRr.png, Duration: 99 ms
+2025-08-10 00:16:26.791 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-10 00:16:26.791 - Executing: Capture region
+2025-08-10 00:16:29.227 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-10 00:16:29.242 - Task status: Preparing
+2025-08-10 00:16:29.255 - Image copied to clipboard.
+2025-08-10 00:16:29.264 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_VntRwcoVT8.png
+2025-08-10 00:16:29.267 - Task completed. File name: opera_VntRwcoVT8.png, Duration: 25 ms
+2025-08-10 09:05:48.173 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-10 09:05:48.173 - Executing: Capture region
+2025-08-10 09:05:49.811 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-10 09:05:49.811 - Executing: Capture region
+2025-08-10 09:05:51.690 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-10 09:05:51.710 - Task status: Preparing
+2025-08-10 09:05:51.735 - Image copied to clipboard.
+2025-08-10 09:05:51.754 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\FortniteClient-Win64-Shipping_gRGgbEIucw.png
+2025-08-10 09:05:51.758 - Task completed. File name: FortniteClient-Win64-Shipping_gRGgbEIucw.png, Duration: 48 ms
+2025-08-11 14:04:33.182 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-11 14:04:33.183 - Executing: Capture region
+2025-08-11 14:04:34.587 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-11 14:04:34.649 - Task status: Preparing
+2025-08-11 14:04:34.675 - Image copied to clipboard.
+2025-08-11 14:04:34.696 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\FortniteClient-Win64-Shipping_vD7faHHXwv.png
+2025-08-11 14:04:34.701 - Task completed. File name: FortniteClient-Win64-Shipping_vD7faHHXwv.png, Duration: 51 ms
+2025-08-11 15:50:30.386 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-11 15:50:30.386 - Executing: Capture region
+2025-08-11 15:50:38.813 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-11 15:50:38.834 - Task status: Preparing
+2025-08-11 15:50:38.860 - Image copied to clipboard.
+2025-08-11 15:50:38.875 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_V9p5k8DcYk.png
+2025-08-11 15:50:38.881 - Task completed. File name: opera_V9p5k8DcYk.png, Duration: 47 ms
+2025-08-12 14:07:58.212 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 14:07:58.212 - Executing: Capture region
+2025-08-12 14:08:01.445 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-12 14:08:01.492 - Task status: Preparing
+2025-08-12 14:08:01.504 - Image copied to clipboard.
+2025-08-12 14:08:01.513 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\FortniteClient-Win64-Shipping_195vKdaLTO.png
+2025-08-12 14:08:01.516 - Task completed. File name: FortniteClient-Win64-Shipping_195vKdaLTO.png, Duration: 24 ms
+2025-08-12 14:08:06.717 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 14:08:06.717 - Executing: Capture region
+2025-08-12 14:08:10.555 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 14:08:10.555 - Executing: Capture region
+2025-08-12 14:08:13.672 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-12 14:08:13.689 - Task status: Preparing
+2025-08-12 14:08:13.695 - Image copied to clipboard.
+2025-08-12 14:08:13.700 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\FortniteClient-Win64-Shipping_RiGuUIlNtA.png
+2025-08-12 14:08:13.703 - Task completed. File name: FortniteClient-Win64-Shipping_RiGuUIlNtA.png, Duration: 14 ms
+2025-08-12 14:57:39.785 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 14:57:39.786 - Executing: Capture region
+2025-08-12 14:57:47.499 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-12 14:57:47.527 - Task status: Preparing
+2025-08-12 14:57:47.545 - Image copied to clipboard.
+2025-08-12 14:57:47.555 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\opera_vno6T5D5Jp.png
+2025-08-12 14:57:47.557 - Task completed. File name: opera_vno6T5D5Jp.png, Duration: 34 ms
+2025-08-12 16:17:04.992 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 16:17:04.992 - Executing: Capture region
+2025-08-12 16:17:07.292 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-12 16:17:07.310 - Task status: Preparing
+2025-08-12 16:17:07.415 - Image copied to clipboard.
+2025-08-12 16:17:07.482 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\FortniteClient-Win64-Shipping_ScdT8LLxrg.png
+2025-08-12 16:17:07.492 - Task completed. File name: FortniteClient-Win64-Shipping_ScdT8LLxrg.png, Duration: 182 ms
+2025-08-12 19:47:01.566 - Hotkey triggered. Hotkey: Shift + Alt + S, Description: Capture region, Job: RectangleRegion
+2025-08-12 19:47:01.566 - Executing: Capture region
+2025-08-12 19:47:03.961 - Task in queue. Job: Job, Type: Image, Host: 
+2025-08-12 19:47:04.027 - Task status: Preparing
+2025-08-12 19:47:04.052 - Image copied to clipboard.
+2025-08-12 19:47:04.061 - Image saved to file: C:\Users\deves\Documents\ShareX\Screenshots\2025-08\Phasmophobia_0eFbcXQiF2.png
+2025-08-12 19:47:04.066 - Task completed. File name: Phasmophobia_0eFbcXQiF2.png, Duration: 40 ms
+2025-08-13 11:35:38.687 - ShareX closing.
+2025-08-13 11:35:38.703 - ApplicationConfig save started: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-08-13 11:35:39.099 - ApplicationConfig save successful: C:\Users\deves\Documents\ShareX\ApplicationConfig.json
+2025-08-13 11:35:39.100 - UploadersConfig save started: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-08-13 11:35:39.166 - UploadersConfig save successful: C:\Users\deves\Documents\ShareX\UploadersConfig.json
+2025-08-13 11:35:39.166 - HotkeysConfig save started: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-08-13 11:35:39.188 - HotkeysConfig save successful: C:\Users\deves\Documents\ShareX\HotkeysConfig.json
+2025-08-13 11:35:39.188 - ShareX closed.
