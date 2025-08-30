@@ -4,14 +4,19 @@ This project was developed as part of the "Python and Cursor: Smarter developmen
 
 ## Description
 
-A Python script that automatically organizes files in a folder by distributing them into subfolders according to their file type. The script categorizes files based on their extensions and moves them to appropriate folders such as Images, Documents, Videos, Music, and Other.
+A cross-platform Python script that automatically organizes files in a folder by distributing them into subfolders according to their file type. The script features a graphical user interface for folder selection and categorizes files based on their extensions, moving them to appropriate folders such as Images, Documents, Videos, Music, and Other.
 
 ## Features
 
-- Automatically categorizes files by extension
-- Creates category folders if they don't exist
-- Handles duplicate files gracefully
-- Supports common file types:
+- **Cross-platform compatibility**: Works on Windows, Linux, and macOS
+- **Graphical User Interface**: Easy folder selection with file dialog
+- **Command Line Interface**: Fallback option when GUI is not available
+- **System Detection**: Automatically detects and adapts to the operating system
+- **Automatic categorization**: Files are categorized by extension
+- **Creates category folders**: Only creates folders when there are files to organize
+- **Handles duplicates gracefully**: Skips files that already exist in destination
+- **Progress feedback**: Shows completion status with file counts
+- **Supports common file types**:
   - **Images**: .png, .jpg, .jpeg, .gif
   - **Documents**: .pdf, .docx, .txt, .xlsx, .xml, .json
   - **Videos**: .mp4, .avi, .mkv, .mov
@@ -20,14 +25,47 @@ A Python script that automatically organizes files in a folder by distributing t
 
 ## Usage
 
-1. Place the files you want to organize in the `target` folder
-2. Run the script: `python app.py`
-3. Files will be automatically sorted into appropriate category folders
+1. Run the script: `python app.py`
+2. A folder selection dialog will appear (or use command line interface)
+3. Select the folder containing files you want to organize
+4. The script will automatically sort files into appropriate category folders
+5. A completion message will show the results
 
 ## Requirements
 
 - Python 3.x
+- tkinter (usually included with Python, required for GUI)
 - No additional dependencies required (uses only standard library modules)
+
+## Cross-Platform Features
+
+### System Detection
+- Automatically detects Windows, Linux, and macOS
+- Adapts file paths and operations to the detected system
+- Provides system information on startup
+
+### User Interface Options
+
+#### Graphical User Interface (GUI)
+- **Primary interface**: Modern file dialog for folder selection
+- **Features**:
+  - Native file browser dialog
+  - Starts from user's home directory
+  - Completion notification popup
+  - Cross-platform file dialog appearance
+
+#### Command Line Interface (CLI)
+- **Fallback option**: Available when tkinter is not installed
+- **Features**:
+  - Interactive menu system
+  - Option to use current directory
+  - Custom path input with validation
+  - Clear user prompts and error handling
+
+### Platform-Specific Adaptations
+- **Windows**: Uses Windows-style file dialogs and path handling
+- **Linux**: Uses GTK file dialogs and Unix path conventions
+- **macOS**: Uses native macOS file dialogs and path handling
 
 ## Performance Optimizations
 
@@ -45,9 +83,9 @@ The script has been optimized for better performance with the following improvem
 - Groups files by category first, then processes each category together
 - **Impact**: Better disk I/O patterns, reduced seek times
 
-### 4. **Pre-computed Category Folders**
-- All folder paths are calculated once and stored in a dictionary
-- **Impact**: Reduced path calculations and better memory usage
+### 4. **On-Demand Folder Creation**
+- Only creates category folders when there are files to organize
+- **Impact**: Avoids creating empty folders and reduces unnecessary file system operations
 
 ### 5. **Early Exit for Empty Directories**
 - Checks if files exist and exits early if none found
